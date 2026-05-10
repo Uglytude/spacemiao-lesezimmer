@@ -1,0 +1,283 @@
+"use client";
+
+import { useState, useEffect, useCallback, useRef } from "react";
+import Link from "next/link";
+import type { BookData, OcrLine, TranslationMap } from "@/lib/types";
+
+export default function PepperReader() {
+  const [bookData, setBookData] = useState<BookData | null>(null);
+  const [translations, setTranslations] = useState<TranslationMap>({});
+  const [currentPage, setCurrentPage] = useState(0);
+  const [selectedLine, setSelectedLine] = useState<OcrLine | null>(null);
+  const [popoverPos, setPopoverPos] = useState<{ x: number; y: number } | null>(null);
+  const [pageKey, setPageKey] = useState(0);
+  const [isMobile, setIsMobile] = useState(false);
+  const [imageLoaded, setImageLoaded] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  // Load book data
+  useEffect(() => {
+    fetch("/books/pepper/data/ocr.json")
+      .then((r) => r.json())
+      .then((data: BookData) => setBookData(data));
+    fetch("/books/pepper/data/translations.json")
+      .then((r) => r.json())
+      .then((data: TranslationMap) => setTranslations(data))
+      .catch(() => setTranslations({}));
+  }, []);
+
+  // Detect mobile
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth <= 768);
+    check();
+    window.addEventListener("resize", check);
+    return () => window.removeEventListener("resize", check);
+  }, []);
+
+  // Close popover on page change
+  useEffect(() => {
+    setSelectedLine(null);
+    setPopoverPos(null);
+    setImageLoaded(false);
+  }, [currentPage]);
+
+  // Keyboard navigation
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      if (e.key === "ArrowRight" || e.key === "ArrowDown") {
+        e.preventDefault();
+        goNext();
+      } else if (e.key === "ArrowLeft" || e.key === "ArrowUp") {
+        e.preventDefault();
+        goPrev();
+      } else if (e.key === "Escape") {
+        setSelectedLine(null);
+        setPopoverPos(null);
+      }
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  });
+
+  // Preload adjacent images
+  useEffect(() => {
+    if (!bookData) return;
+    [- 1, 1, 2].forEach((offset) => {
+      const idx = currentPage + offset;
+      if (idx >= 0 && idx < bookData.pages.length) {
+        const img = new Image();
+        img.src = `/books/pepper/pages-web/${bookData.pages[idx].webImage}`;
+      }
+    });
+  }, [currentPage, bookData]);
+
+  const goNext = useCallback(() => {
+    if (!bookData) return;
+    setCurrentPage((p) => Math.min(p + 1, bookData.pages.length - 1));
+    setPageKey((k) => k + 1);
+  }, [bookData]);
+
+  const goPrev = useCallback(() => {
+    setCurrentPage((p) => Math.max(p - 1, 0));
+    setPageKey((k) => k + 1);
+  }, []);
+
+  // Touch swipe
+  const touchStartX = useRef(0);
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartX.current = e.touches[0].clientX;
+  };
+  const handleTouchEnd = (e: React.TouchEvent) => {
+    const diff = touchStartX.current - e.changedTouches[0].clientX;
+    if (Math.abs(diff) > 50) {
+      if (diff > 0) goNext();
+      else goPrev();
+    }
+  };
+
+  // Handle OCR box click
+  const handleLineClick = (line: OcrLine, e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (selectedLine === line) {
+      setSelectedLine(null);
+      setPopoverPos(null);
+      return;
+    }
+    setSelectedLine(line);
+
+    if (!isMobile && containerRef.current) {
+      const rect = containerRef.current.getBoundingClientRect();
+      const clickX = e.clientX - rect.left;
+      const clickY = e.clientY - rect.top;
+      let px = clickX + 10;
+      let py = clickY - 10;
+      if (px + 280 > rect.width) px = clickX - 290;
+      if (py + 150 > rect.height) py = rect.height - 160;
+      if (py < 10) py = 10;
+      if (px < 10) px = 10;
+      setPopoverPos({ x: px, y: py });
+    }
+  };
+
+  const handleContainerClick = () => {
+    setSelectedLine(null);
+    setPopoverPos(null);
+  };
+
+  // Vision coords (bottom-left) → CSS (top-left)
+  const visionToCSS = (line: OcrLine) => {
+    const { x, y, width, height } = line.bbox;
+    return {
+      left: `${x * 100}%`,
+      top: `${(1 - y - height) * 100}%`,
+      width: `${width * 100}%`,
+      height: `${height * 100}%`,
+    };
+  };
+
+  // Fuzzy translation matching
+  const normalize = (s: string) =>
+    s.toLowerCase().trim()
+      .replace(/[.,!?;:"""''()\[\]{}*&^%$#@~`\/\\|<>_+=]/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+
+  const getTranslation = (text: string) => {
+    if (translations[text]) return translations[text];
+    const norm = normalize(text);
+    for (const key of Object.keys(translations)) {
+      if (normalize(key) === norm) return translations[key];
+      const normKey = normalize(key);
+      if (normKey.length > 5 && (norm.includes(normKey) || normKey.includes(norm))) {
+        return translations[key];
+      }
+    }
+    return null;
+  };
+
+  if (!bookData) {
+    return (
+      <div className="app">
+        <div className="reader" style={{ opacity: 0.4 }}>
+          <p style={{ fontFamily: "var(--font-handwritten)", fontSize: 22 }}>Laden …</p>
+        </div>
+      </div>
+    );
+  }
+
+  const page = bookData.pages[currentPage];
+  const translation = selectedLine ? getTranslation(selectedLine.text) : null;
+
+  return (
+    <div className="app">
+      {/* Header */}
+      <header className="header">
+        <Link href="/" className="header-left">
+          <img className="header-logo" src="/logo-cat.png" alt="logo" />
+          <h1 className="header-title">
+            {bookData.title}
+            <span>{bookData.author}</span>
+          </h1>
+        </Link>
+        <Link href="/" className="header-back">← Zurück</Link>
+      </header>
+
+      {/* Reader */}
+      <main className="reader">
+        <div
+          ref={containerRef}
+          className="book-container"
+          onClick={handleContainerClick}
+          onTouchStart={handleTouchStart}
+          onTouchEnd={handleTouchEnd}
+        >
+          <img
+            key={pageKey}
+            className={`book-image ${imageLoaded ? "page-enter" : ""}`}
+            src={`/books/pepper/pages-web/${page.webImage}`}
+            alt={`Seite ${page.page}`}
+            onLoad={() => setImageLoaded(true)}
+            style={{ opacity: imageLoaded ? 1 : 0, transition: "opacity 0.2s" }}
+          />
+
+          {imageLoaded && page.hasText && page.lines.length > 0 && (
+            <div className="ocr-overlay">
+              {page.lines.map((line, i) => (
+                <div
+                  key={i}
+                  className={`ocr-box ${selectedLine === line ? "active" : ""}`}
+                  style={visionToCSS(line)}
+                  onClick={(e) => handleLineClick(line, e)}
+                />
+              ))}
+            </div>
+          )}
+
+          {selectedLine && popoverPos && !isMobile && (
+            <div
+              className="popover"
+              style={{ left: popoverPos.x, top: popoverPos.y }}
+              onClick={(e) => e.stopPropagation()}
+            >
+              <div className="popover-german">{selectedLine.text}</div>
+              <div className="popover-divider" />
+              {translation ? (
+                <>
+                  <div className="popover-translation">
+                    <span className="popover-flag">🇨🇳</span>
+                    <span className="popover-text">{translation.translation_zh}</span>
+                  </div>
+                  <div className="popover-translation">
+                    <span className="popover-flag">🇬🇧</span>
+                    <span className="popover-text secondary">{translation.translation_en}</span>
+                  </div>
+                </>
+              ) : (
+                <div className="popover-translation">
+                  <span className="popover-text secondary">翻译加载中…</span>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+
+        <div className="controls">
+          <button className="page-btn" onClick={goPrev} disabled={currentPage === 0} aria-label="上一页">←</button>
+          <span className="page-info">{page.page} / {bookData.pageCount}</span>
+          <button className="page-btn" onClick={goNext} disabled={currentPage === bookData.pages.length - 1} aria-label="下一页">→</button>
+        </div>
+      </main>
+
+      {selectedLine && isMobile && (
+        <>
+          <div className="sheet-backdrop" onClick={handleContainerClick} />
+          <div className="sheet" onClick={(e) => e.stopPropagation()}>
+            <div className="sheet-handle" />
+            <div className="popover-german">{selectedLine.text}</div>
+            <div className="popover-divider" />
+            {translation ? (
+              <>
+                <div className="popover-translation">
+                  <span className="popover-flag">🇨🇳</span>
+                  <span className="popover-text">{translation.translation_zh}</span>
+                </div>
+                <div className="popover-translation">
+                  <span className="popover-flag">🇬🇧</span>
+                  <span className="popover-text secondary">{translation.translation_en}</span>
+                </div>
+              </>
+            ) : (
+              <div className="popover-translation">
+                <span className="popover-text secondary">翻译加载中…</span>
+              </div>
+            )}
+          </div>
+        </>
+      )}
+
+      <footer className="disclaimer">
+        仅供个人学习使用 · Der Sommer mit Pepper © Beatrice Alemagna
+      </footer>
+    </div>
+  );
+}

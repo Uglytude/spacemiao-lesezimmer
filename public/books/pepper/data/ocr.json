@@ -1,0 +1,2199 @@
+{
+  "bookId": "pepper",
+  "title": "Der Sommer mit Pepper",
+  "author": "Beatrice Alemagna",
+  "pageCount": 49,
+  "pagesWithText": 36,
+  "totalLines": 171,
+  "ocrEngine": "apple-vision",
+  "coordinateSystem": "normalized-bottom-left",
+  "pages": [
+    {
+      "page": 1,
+      "sourceImage": "IMG_7747.JPG",
+      "webImage": "page_001.jpg",
+      "imageWidth": 2497,
+      "imageHeight": 3499,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "6 . BEATRICE ALEMAGNA",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3598,
+            "y": 0.9351,
+            "width": 0.4469,
+            "height": 0.0314
+          }
+        },
+        {
+          "text": "DER SOMMER MIT ,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.132,
+            "y": 0.1709,
+            "width": 0.7479,
+            "height": 0.0657
+          }
+        },
+        {
+          "text": "PEPPEK.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2307,
+            "y": 0.0206,
+            "width": 0.5986,
+            "height": 0.144
+          }
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "sourceImage": "IMG_7749.JPG",
+      "webImage": "page_002.jpg",
+      "imageWidth": 2485,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 3,
+      "sourceImage": "IMG_7752.JPG",
+      "webImage": "page_003.jpg",
+      "imageWidth": 2527,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Der 5omrnef mit Pepper",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1359,
+            "y": 0.4206,
+            "width": 0.1642,
+            "height": 0.012
+          }
+        },
+        {
+          "text": "ISBN 978 3 8489 0242 2",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1351,
+            "y": 0.4071,
+            "width": 0.1625,
+            "height": 0.0103
+          }
+        },
+        {
+          "text": "Text UfKI Illustrationen ¢ 2024 Beatrice Alemagna",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1343,
+            "y": 0.388,
+            "width": 0.3457,
+            "height": 0.0143
+          }
+        },
+        {
+          "text": "Ot*r5etzt von Mafia Höck",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1334,
+            "y": 0.3606,
+            "width": 0.1743,
+            "height": 0.0129
+          }
+        },
+        {
+          "text": "¢ dtf deutschen Ausgabe 2025 A(adin In der Thlenemann.Essllnger",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1323,
+            "y": 0.3249,
+            "width": 0.4767,
+            "height": 0.0166
+          }
+        },
+        {
+          "text": "V•flrf GmbH. stUtt￿rt",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1321,
+            "y": 0.3126,
+            "width": 0.1571,
+            "height": 0.0143
+          }
+        },
+        {
+          "text": "D* Orifjnalauscabe erschien 2024 unter dem fitel Pepper and Me bel",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1314,
+            "y": 0.2923,
+            "width": 0.4919,
+            "height": 0.0194
+          }
+        },
+        {
+          "text": "Part einem Imprint von Astra PubLishlng House, astrapublishlnghouse.com.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1746,
+            "y": 0.276,
+            "width": 0.5416,
+            "height": 0.0191
+          }
+        },
+        {
+          "text": "V*fbff*ndicIrt mit freundlicher Genehmigung von Astra Publ16hlng House,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1306,
+            "y": 0.2603,
+            "width": 0.5181,
+            "height": 0.0209
+          }
+        },
+        {
+          "text": "Zus•ffrff*enarbeit mit 2 Sea8 Llterary Agency und Stefanle Drews Agency.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1467,
+            "y": 0.2437,
+            "width": 0.5154,
+            "height": 0.0217
+          }
+        },
+        {
+          "text": "Uffivth&oyF•Q8félie und Satz: Dofl• Grfjniger. Zorlch",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1292,
+            "y": 0.2149,
+            "width": 0.3626,
+            "height": 0.0214
+          }
+        },
+        {
+          "text": "￿￿￿u>.￿<4￿* erfhw4￿nftpfO GmbH. Fellbach",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1287,
+            "y": 0.2,
+            "width": 0.3228,
+            "height": 0.0211
+          }
+        },
+        {
+          "text": "DfwJ( Binduri¢ Llvonla Pflnt, Ri",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1282,
+            "y": 0.1863,
+            "width": 0.2462,
+            "height": 0.0197
+          }
+        },
+        {
+          "text": "PfJnt¢d In L•tvl•. AU• P*¢lrt• VQfbfih4Lt•n,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1247,
+            "y": 0.1094,
+            "width": 0.2913,
+            "height": 0.0209
+          }
+        },
+        {
+          "text": "Wlf b•halt•n un• dl• Nutzung unwf•f Inhalt• for Text und Data Mlnlng",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1238,
+            "y": 0.0849,
+            "width": 0.5031,
+            "height": 0.0311
+          }
+        },
+        {
+          "text": "Im $lnn• von • 44b UrtIG 8usdcÖckUch vor.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1222,
+            "y": 0.0771,
+            "width": 0.297,
+            "height": 0.0231
+          }
+        },
+        {
+          "text": "wwwihl•n¢mannA1•",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1216,
+            "y": 0.0694,
+            "width": 0.1401,
+            "height": 0.0151
+          }
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "sourceImage": "IMG_7753.JPG",
+      "webImage": "page_004.jpg",
+      "imageWidth": 2690,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 5,
+      "sourceImage": "IMG_7754.JPG",
+      "webImage": "page_005.jpg",
+      "imageWidth": 2090,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 6,
+      "sourceImage": "IMG_7755.JPG",
+      "webImage": "page_006.jpg",
+      "imageWidth": 2527,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "BEATRICE AL£MhGNh",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3329,
+            "y": 0.898,
+            "width": 0.3301,
+            "height": 0.0303
+          }
+        },
+        {
+          "text": "DER SOMMER MIT",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1883,
+            "y": 0.3263,
+            "width": 0.6313,
+            "height": 0.0514
+          }
+        },
+        {
+          "text": "PEPPEK",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2816,
+            "y": 0.208,
+            "width": 0.4494,
+            "height": 0.1074
+          }
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "sourceImage": "IMG_7756.JPG",
+      "webImage": "page_007.jpg",
+      "imageWidth": 2215,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 8,
+      "sourceImage": "IMG_7757.JPG",
+      "webImage": "page_008.jpg",
+      "imageWidth": 2232,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Ili)",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.4375,
+            "y": 0.4984,
+            "width": 0.0828,
+            "height": 0.0482
+          }
+        },
+        {
+          "text": "Für Patricia. Wo auch immer sie jetzt ISL.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.4458,
+            "y": 0.0969,
+            "width": 0.4646,
+            "height": 0.0226
+          }
+        },
+        {
+          "text": "ich hoffe. ihr deht's gut.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.5404,
+            "y": 0.0726,
+            "width": 0.2665,
+            "height": 0.02
+          }
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "sourceImage": "IMG_7758.JPG",
+      "webImage": "page_009.jpg",
+      "imageWidth": 2340,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "FUCh'ER FECk.",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.3897,
+            "y": 0.9263,
+            "width": 0.3231,
+            "height": 0.0354
+          }
+        },
+        {
+          "text": "DJHL",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.765,
+            "y": 0.871,
+            "width": 0.1751,
+            "height": 0.098
+          }
+        },
+        {
+          "text": "IIF",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1684,
+            "y": 0.326,
+            "width": 0.0342,
+            "height": 0.0169
+          }
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "sourceImage": "IMG_7759.JPG",
+      "webImage": "page_010.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": ",)[([, jl",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.5759,
+            "y": 0.8063,
+            "width": 0.165,
+            "height": 0.0423
+          }
+        },
+        {
+          "text": "Aus der Wunde tropfte richtig viel Du-weißt-schon-was.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.136,
+            "y": 0.1389,
+            "width": 0.6022,
+            "height": 0.02
+          }
+        },
+        {
+          "text": "Wie in einem Gruselfilm Lief es an meinem Bein hinunter.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1372,
+            "y": 0.1146,
+            "width": 0.6158,
+            "height": 0.0189
+          }
+        },
+        {
+          "text": "BLUT! Jetzt hab ich es gesagt. Das Wort, vor dem alle",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1393,
+            "y": 0.0883,
+            "width": 0.5709,
+            "height": 0.0194
+          }
+        },
+        {
+          "text": "Kinder Angst haben.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1394,
+            "y": 0.0649,
+            "width": 0.21,
+            "height": 0.0171
+          }
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "sourceImage": "IMG_7760.JPG",
+      "webImage": "page_011.jpg",
+      "imageWidth": 1874,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "I, I'_l_L'.'-",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.4077,
+            "y": 0.4929,
+            "width": 0.1633,
+            "height": 0.0303
+          }
+        },
+        {
+          "text": ".rrf•P",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1938,
+            "y": 0.3558,
+            "width": 0.0237,
+            "height": 0.0068
+          }
+        },
+        {
+          "text": "Einmal bin ich hingefallen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2266,
+            "y": 0.1611,
+            "width": 0.3222,
+            "height": 0.0206
+          }
+        },
+        {
+          "text": "Über einen Pflasterstein gestolpert und - paduffi",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2309,
+            "y": 0.1389,
+            "width": 0.5943,
+            "height": 0.0257
+          }
+        },
+        {
+          "text": "schon lag ich auf dem Boden.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2351,
+            "y": 0.1174,
+            "width": 0.358,
+            "height": 0.0206
+          }
+        },
+        {
+          "text": "Als ich mich aufrappelte, war mein Knie aufgeschürft.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2383,
+            "y": 0.0971,
+            "width": 0.6398,
+            "height": 0.0194
+          }
+        },
+        {
+          "text": "Wie das branntel So, so sehrl",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.242,
+            "y": 0.0769,
+            "width": 0.3505,
+            "height": 0.0154
+          }
+        },
+        {
+          "text": "Ich hab geheult wie ein Baby.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2481,
+            "y": 0.0537,
+            "width": 0.3458,
+            "height": 0.0166
+          }
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "sourceImage": "IMG_7761.JPG",
+      "webImage": "page_012.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "¥fj",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.88,
+            "y": 0.6246,
+            "width": 0.0177,
+            "height": 0.0057
+          }
+        },
+        {
+          "text": "Papa sagte: ,,Das wird einen schönen Schorf geben.\"",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1952,
+            "y": 0.1594,
+            "width": 0.5791,
+            "height": 0.0234
+          }
+        },
+        {
+          "text": "Einen Schorf bekam ich wirklich. Aber schön war er nicht.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1952,
+            "y": 0.1363,
+            "width": 0.645,
+            "height": 0.0223
+          }
+        },
+        {
+          "text": "Das Blut war erst klebrig und trocknete dann immer mehr ein.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1953,
+            "y": 0.1091,
+            "width": 0.6927,
+            "height": 0.022
+          }
+        },
+        {
+          "text": "Es sah aus wie ein riesiger Hamburger.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1945,
+            "y": 0.086,
+            "width": 0.4282,
+            "height": 0.02
+          }
+        },
+        {
+          "text": "Aber einer, den man nicht essen konnte.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1913,
+            "y": 0.0623,
+            "width": 0.4503,
+            "height": 0.018
+          }
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "sourceImage": "IMG_7764.JPG",
+      "webImage": "page_013.jpg",
+      "imageWidth": 2132,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "CAFE",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.8598,
+            "y": 0.9108,
+            "width": 0.1274,
+            "height": 0.0633
+          }
+        },
+        {
+          "text": "Ii,",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.19,
+            "y": 0.8411,
+            "width": 0.0174,
+            "height": 0.0094
+          }
+        },
+        {
+          "text": "Yfvil",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.3501,
+            "y": 0.6929,
+            "width": 0.0286,
+            "height": 0.0051
+          }
+        },
+        {
+          "text": "Ich fragte Mama,-wann.der Schorf.verschwinden..Nv(irde.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1449,
+            "y": 0.354,
+            "width": 0.6527,
+            "height": 0.0391
+          }
+        },
+        {
+          "text": "In ein,paar Tagen:'meinte sie.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1431,
+            "y": 0.334,
+            "width": 0.3224,
+            "height": 0.0337
+          }
+        },
+        {
+          "text": "Also wartete ich'eiri paar,. Tage,'ab'er nichts passierte,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1433,
+            "y": 0.2997,
+            "width": 0.6157,
+            "height": 0.046
+          }
+        },
+        {
+          "text": "Der Schorf war immer noch da.\"",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1457,
+            "y": 0.286,
+            "width": 0.3454,
+            "height": 0.0348
+          }
+        },
+        {
+          "text": "J..J..<' i,, ,, .",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3705,
+            "y": 0.122,
+            "width": 0.1477,
+            "height": 0.0194
+          }
+        },
+        {
+          "text": "• YS",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.6754,
+            "y": 0.1309,
+            "width": 0.022,
+            "height": 0.0057
+          }
+        },
+        {
+          "text": "¢4 41... / 7..%.tiP,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3098,
+            "y": 0.1117,
+            "width": 0.1291,
+            "height": 0.0169
+          }
+        },
+        {
+          "text": ".-:¥ A¢\" .r••.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.349,
+            "y": 0.078,
+            "width": 0.1027,
+            "height": 0.0094
+          }
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "sourceImage": "IMG_7765.JPG",
+      "webImage": "page_014.jpg",
+      "imageWidth": 2509,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "smoE",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1774,
+            "y": 0.8933,
+            "width": 0.2359,
+            "height": 0.106
+          }
+        },
+        {
+          "text": "\"r•¥T",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1498,
+            "y": 0.7571,
+            "width": 0.0259,
+            "height": 0.0051
+          }
+        },
+        {
+          "text": "Iliii, .",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.6789,
+            "y": 0.2286,
+            "width": 0.1785,
+            "height": 0.1189
+          }
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "sourceImage": "IMG_7766.JPG",
+      "webImage": "page_015.jpg",
+      "imageWidth": 2157,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Ich stsrrte auf den Schorf, und er starrte zurück.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1268,
+            "y": 0.1223,
+            "width": 0.5472,
+            "height": 0.02
+          }
+        },
+        {
+          "text": "Richtig gruselig sah er jetzt aus,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1262,
+            "y": 0.0957,
+            "width": 0.3356,
+            "height": 0.0206
+          }
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "sourceImage": "IMG_7767.JPG",
+      "webImage": "page_016.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Scheußlicher Schorf.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1158,
+            "y": 0.7509,
+            "width": 0.2483,
+            "height": 0.0157
+          }
+        },
+        {
+          "text": "Was, wenn er für immer blieb?",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1148,
+            "y": 0.7226,
+            "width": 0.3611,
+            "height": 0.0186
+          }
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "sourceImage": "IMG_7768.JPG",
+      "webImage": "page_017.jpg",
+      "imageWidth": 2340,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 18,
+      "sourceImage": "IMG_7769.JPG",
+      "webImage": "page_018.jpg",
+      "imageWidth": 2690,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Mama schmierte Salbe auf den Schorf.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3677,
+            "y": 0.3034,
+            "width": 0.4349,
+            "height": 0.0149
+          }
+        },
+        {
+          "text": ".Er ist riesig, ich weiß. aber ir6endNvann",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3606,
+            "y": 0.2754,
+            "width": 0.4428,
+            "height": 0.0169
+          }
+        },
+        {
+          "text": "wird er abfallen.\"",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.368,
+            "y": 0.2523,
+            "width": 0.1866,
+            "height": 0.0149
+          }
+        },
+        {
+          "text": "Hrri. Der Schorf wi)rde also abfallen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3699,
+            "y": 0.2249,
+            "width": 0.403,
+            "height": 0.0174
+          }
+        },
+        {
+          "text": ". so wie ich hingefallen Nvar.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3595,
+            "y": 0.1989,
+            "width": 0.3007,
+            "height": 0.0174
+          }
+        },
+        {
+          "text": "Vi Il",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.0309,
+            "y": 0.264,
+            "width": 0.0193,
+            "height": 0.0054
+          }
+        },
+        {
+          "text": "Die Tage kamen und gincfen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3717,
+            "y": 0.148,
+            "width": 0.3022,
+            "height": 0.0174
+          }
+        },
+        {
+          "text": "Aber der Schorf blieb.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3699,
+            "y": 0.1251,
+            "width": 0.2353,
+            "height": 0.0157
+          }
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "sourceImage": "IMG_7770.JPG",
+      "webImage": "page_019.jpg",
+      "imageWidth": 2415,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Ich wusste, dass auch andere Kinder",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1725,
+            "y": 0.4797,
+            "width": 0.5467,
+            "height": 0.0348
+          }
+        },
+        {
+          "text": "Schorf an den seLtsamsten Stellen hatten.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1709,
+            "y": 0.4526,
+            "width": 0.6194,
+            "height": 0.0357
+          }
+        },
+        {
+          "text": "Aber meiner war der schrecklichste auf",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1687,
+            "y": 0.4232,
+            "width": 0.5821,
+            "height": 0.0368
+          }
+        },
+        {
+          "text": "der ganzen Welt.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1707,
+            "y": 0.3946,
+            "width": 0.238,
+            "height": 0.0229
+          }
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "sourceImage": "IMG_7771.JPG",
+      "webImage": "page_020.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 21,
+      "sourceImage": "IMG_7772.JPG",
+      "webImage": "page_021.jpg",
+      "imageWidth": 2257,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Der Schorf folgte mir Oberallhin. Also nannte ich ihn Pepper,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.158,
+            "y": 0.2574,
+            "width": 0.6986,
+            "height": 0.0186
+          }
+        },
+        {
+          "text": "wie den Hund, den ich nicht haben durfte.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1568,
+            "y": 0.2366,
+            "width": 0.4916,
+            "height": 0.0157
+          }
+        },
+        {
+          "text": "Eines Tages. als ich mich wieder einmal sehr anstrengte,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1575,
+            "y": 0.1857,
+            "width": 0.6522,
+            "height": 0.0189
+          }
+        },
+        {
+          "text": "nicht an Pepper zu denken, ma'chte er plötzlich ein G",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.157,
+            "y": 0.1614,
+            "width": 0.6156,
+            "height": 0.022
+          }
+        },
+        {
+          "text": "\"usch.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.8007,
+            "y": 0.1646,
+            "width": 0.0691,
+            "height": 0.014
+          }
+        },
+        {
+          "text": "Ich horchte auf.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1568,
+            "y": 0.1429,
+            "width": 0.1763,
+            "height": 0.0137
+          }
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "sourceImage": "IMG_7773.JPG",
+      "webImage": "page_022.jpg",
+      "imageWidth": 2257,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 23,
+      "sourceImage": "IMG_7774.JPG",
+      "webImage": "page_023.jpg",
+      "imageWidth": 2844,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 24,
+      "sourceImage": "IMG_7775.JPG",
+      "webImage": "page_024.jpg",
+      "imageWidth": 3253,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": ".Du willst, dass ich verschwinde, nicht wahffi\". sagte Peppar.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1672,
+            "y": 0.8603,
+            "width": 0.7308,
+            "height": 0.0429
+          }
+        },
+        {
+          "text": ".Ja, bitte..",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1634,
+            "y": 0.8266,
+            "width": 0.1242,
+            "height": 0.0348
+          }
+        },
+        {
+          "text": ".Tut mir leid, aber da wirst du noch warten mussen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1647,
+            "y": 0.7946,
+            "width": 0.6257,
+            "height": 0.0383
+          }
+        },
+        {
+          "text": "Übrigens, was für ein doofer Name ist eigentlich Peppe",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1721,
+            "y": 0.766,
+            "width": 0.6577,
+            "height": 0.0326
+          }
+        },
+        {
+          "text": "Hättest du mir nicht einen supersüßen Namen geben",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1712,
+            "y": 0.7337,
+            "width": 0.6325,
+            "height": 0.0297
+          }
+        },
+        {
+          "text": "können, wie Lucky oder Sam?",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1696,
+            "y": 0.7011,
+            "width": 0.3559,
+            "height": 0.0326
+          }
+        },
+        {
+          "text": ".Ich nenn dich, wie du willst, wenn du bloß verschwindesf.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1605,
+            "y": 0.6563,
+            "width": 0.7079,
+            "height": 0.0446
+          }
+        },
+        {
+          "text": "versprach ich.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1665,
+            "y": 0.6363,
+            "width": 0.1637,
+            "height": 0.0266
+          }
+        },
+        {
+          "text": "Aber Pepper verschwand nicht.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.165,
+            "y": 0.6074,
+            "width": 0.3669,
+            "height": 0.022
+          }
+        },
+        {
+          "text": "Er kam sogar mit zu meinen Großeltern.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1665,
+            "y": 0.5706,
+            "width": 0.4718,
+            "height": 0.0289
+          }
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "sourceImage": "IMG_7776.JPG",
+      "webImage": "page_025.jpg",
+      "imageWidth": 2049,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Meine Großeltern wohnen auf dem Land.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1346,
+            "y": 0.9006,
+            "width": 0.505,
+            "height": 0.0171
+          }
+        },
+        {
+          "text": "Als sie mich begrüßten, sahen sie Pepper nicht einmal.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1359,
+            "y": 0.84,
+            "width": 0.6927,
+            "height": 0.0217
+          }
+        },
+        {
+          "text": "Wahrscheinlich haben sie in ihrem langen Leben",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1382,
+            "y": 0.8123,
+            "width": 0.6011,
+            "height": 0.022
+          }
+        },
+        {
+          "text": "schon genug Schorf gesehen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1412,
+            "y": 0.7869,
+            "width": 0.3469,
+            "height": 0.02
+          }
+        },
+        {
+          "text": ",, (,- I i!,Ii",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.8361,
+            "y": 0.3116,
+            "width": 0.1665,
+            "height": 0.0721
+          }
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "sourceImage": "IMG_7777.JPG",
+      "webImage": "page_026.jpg",
+      "imageWidth": 2356,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "I r.\" ,~%.'.J\"'",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3735,
+            "y": 0.0486,
+            "width": 0.0819,
+            "height": 0.016
+          }
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "sourceImage": "IMG_7778.JPG",
+      "webImage": "page_027.jpg",
+      "imageWidth": 2157,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Ich begann, mich an Pepper zu C. c,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3181,
+            "y": 0.1249,
+            "width": 0.4271,
+            "height": 0.0308
+          }
+        },
+        {
+          "text": "gewohnen an die Art, wie er",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3181,
+            "y": 0.1031,
+            "width": 0.3308,
+            "height": 0.0223
+          }
+        },
+        {
+          "text": "bei Jedem Schritt an meiner Haut zog.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3195,
+            "y": 0.0789,
+            "width": 0.4166,
+            "height": 0.0237
+          }
+        },
+        {
+          "text": "Doch dann veranderte er sich.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.32,
+            "y": 0.0597,
+            "width": 0.3243,
+            "height": 0.0197
+          }
+        },
+        {
+          "text": "Er wurde welcher und immer klelner.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.321,
+            "y": 0.0354,
+            "width": 0.3992,
+            "height": 0.0211
+          }
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "sourceImage": "IMG_7780.JPG",
+      "webImage": "page_028.jpg",
+      "imageWidth": 2157,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "I':IL y,-",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.4094,
+            "y": 0.012,
+            "width": 0.2627,
+            "height": 0.0809
+          }
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "sourceImage": "IMG_7781.JPG",
+      "webImage": "page_029.jpg",
+      "imageWidth": 2340,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Wenn mir Langweilig war und ich mich einsam fuhlte,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.178,
+            "y": 0.2563,
+            "width": 0.6129,
+            "height": 0.0211
+          }
+        },
+        {
+          "text": "erzähLte ich Pepper Sachen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1778,
+            "y": 0.2331,
+            "width": 0.3366,
+            "height": 0.0206
+          }
+        },
+        {
+          "text": "Dass ich mal im Wald verLoren gegangen war.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1795,
+            "y": 0.2057,
+            "width": 0.5247,
+            "height": 0.0226
+          }
+        },
+        {
+          "text": "Dass ich Angst vor Spinnen hatte.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1791,
+            "y": 0.182,
+            "width": 0.3995,
+            "height": 0.0211
+          }
+        },
+        {
+          "text": "Dass ich davon träumte, irgendwann nach Japan zu flieoen:",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1787,
+            "y": 0.1549,
+            "width": 0.6809,
+            "height": 0.0231
+          }
+        },
+        {
+          "text": "Und dass ich so, so gerne einen eigenen Hund hätte.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1783,
+            "y": 0.1314,
+            "width": 0.6049,
+            "height": 0.0217
+          }
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "sourceImage": "IMG_7782.JPG",
+      "webImage": "page_030.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "*'/ll",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.6399,
+            "y": 0.5669,
+            "width": 0.0429,
+            "height": 0.0146
+          }
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "sourceImage": "IMG_7783.JPG",
+      "webImage": "page_031.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Eines Tages wachte ich auf und Pepper war verschwunden.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1558,
+            "y": 0.2171,
+            "width": 0.6409,
+            "height": 0.0211
+          }
+        },
+        {
+          "text": "Wo steckte er nur? Ich stand auf und schaute unter",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1538,
+            "y": 0.1946,
+            "width": 0.5769,
+            "height": 0.016
+          }
+        },
+        {
+          "text": "dem Bett nach.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1554,
+            "y": 0.1691,
+            "width": 0.1905,
+            "height": 0.0149
+          }
+        },
+        {
+          "text": "Er hatte gesagt, er wi)rde nicht verschwinden, aber jetzt",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.158,
+            "y": 0.1403,
+            "width": 0.6126,
+            "height": 0.0197
+          }
+        },
+        {
+          "text": "hatte er es doch getan.\"Ganz ohne was zu sagen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1584,
+            "y": 0.1151,
+            "width": 0.5429,
+            "height": 0.022
+          }
+        },
+        {
+          "text": "Nlemand sollte-verschwiridep, ohne. was zu sagen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1597,
+            "y": 0.0626,
+            "width": 0.5524,
+            "height": 0.02
+          }
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "sourceImage": "IMG_7784.JPG",
+      "webImage": "page_032.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 33,
+      "sourceImage": "IMG_7785.JPG",
+      "webImage": "page_033.jpg",
+      "imageWidth": 2157,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": ".Siehst du? Jetzt geh ich endlich\" sagte er.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.4036,
+            "y": 0.8354,
+            "width": 0.5366,
+            "height": 0.018
+          }
+        },
+        {
+          "text": ".Ja, endlich\", schniefte ich.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.4036,
+            "y": 0.81,
+            "width": 0.3262,
+            "height": 0.0166
+          }
+        },
+        {
+          "text": ".Ohne mich wirst du viel glücklicher sein.\"",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.4041,
+            "y": 0.7823,
+            "width": 0.519,
+            "height": 0.0197
+          }
+        },
+        {
+          "text": ".Ja, das werde ich.\"",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.4045,
+            "y": 0.7577,
+            "width": 0.2373,
+            "height": 0.0163
+          }
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "sourceImage": "IMG_7786.JPG",
+      "webImage": "page_034.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Später fand ich Pepper zwischen den Falten meiner Bettwasche.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1442,
+            "y": 0.7874,
+            "width": 0.7574,
+            "height": 0.0217
+          }
+        },
+        {
+          "text": "Wie klein und niedlich er jetzt aussah.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1444,
+            "y": 0.7634,
+            "width": 0.4686,
+            "height": 0.0174
+          }
+        },
+        {
+          "text": "Er schien genauso traurig zu sein wie ich.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1467,
+            "y": 0.7349,
+            "width": 0.5024,
+            "height": 0.0209
+          }
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "sourceImage": "IMG_7787.JPG",
+      "webImage": "page_035.jpg",
+      "imageWidth": 2157,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Ich hob Pepper auf und ließ ihn",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3133,
+            "y": 0.8346,
+            "width": 0.348,
+            "height": 0.0186
+          }
+        },
+        {
+          "text": "sanft in die Mohnblumen fallen.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3133,
+            "y": 0.8123,
+            "width": 0.3522,
+            "height": 0.0146
+          }
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "sourceImage": "IMG_7788.JPG",
+      "webImage": "page_036.jpg",
+      "imageWidth": 2340,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 37,
+      "sourceImage": "IMG_7789.JPG",
+      "webImage": "page_037.jpg",
+      "imageWidth": 2539,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Das ist schon eine Weile her. Da, wo Pepper war,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1878,
+            "y": 0.2637,
+            "width": 0.5469,
+            "height": 0.018
+          }
+        },
+        {
+          "text": "ist jetzt eine Stelle mit glatter. glänzender Haut",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1874,
+            "y": 0.238,
+            "width": 0.5394,
+            "height": 0.0186
+          }
+        },
+        {
+          "text": "auf meinem Knie. Sie erinnert mich an den Tag.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1877,
+            "y": 0.212,
+            "width": 0.536,
+            "height": 0.0191
+          }
+        },
+        {
+          "text": "an dem ich über den PfLasterstein gestolpert bin",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1878,
+            "y": 0.1869,
+            "width": 0.5516,
+            "height": 0.0189
+          }
+        },
+        {
+          "text": "und geweint habe wie ein Baby.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.189,
+            "y": 0.1614,
+            "width": 0.3591,
+            "height": 0.0183
+          }
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "sourceImage": "IMG_7790.JPG",
+      "webImage": "page_038.jpg",
+      "imageWidth": 2622,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Sie erinnert mich an den Geruch der Sommertage",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.289,
+            "y": 0.7757,
+            "width": 0.5727,
+            "height": 0.0194
+          }
+        },
+        {
+          "text": "bei meinen Großeltern. und daran. wie es war.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2882,
+            "y": 0.752,
+            "width": 0.5316,
+            "height": 0.0183
+          }
+        },
+        {
+          "text": "als ich noch keinen Hund hatte.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.286,
+            "y": 0.7303,
+            "width": 0.3669,
+            "height": 0.0154
+          }
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "sourceImage": "IMG_7791.JPG",
+      "webImage": "page_039.jpg",
+      "imageWidth": 2157,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": ".[ Ili/?:,",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.4208,
+            "y": 0.47,
+            "width": 0.1057,
+            "height": 0.0251
+          }
+        },
+        {
+          "text": "qfv",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2753,
+            "y": 0.2389,
+            "width": 0.0134,
+            "height": 0.0046
+          }
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "sourceImage": "IMG_7792.JPG",
+      "webImage": "page_040.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Ich habe nämlich doch noch einen bekommen!",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2016,
+            "y": 0.3457,
+            "width": 0.5126,
+            "height": 0.0171
+          }
+        },
+        {
+          "text": "Er heißt Lucky. Ein supersüßer Name.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.202,
+            "y": 0.3194,
+            "width": 0.3955,
+            "height": 0.018
+          }
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "sourceImage": "IMG_7793.JPG",
+      "webImage": "page_041.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Iiiill",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.5439,
+            "y": 0.6314,
+            "width": 0.11,
+            "height": 0.0506
+          }
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "sourceImage": "IMG_7795.JPG",
+      "webImage": "page_042.jpg",
+      "imageWidth": 2949,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 43,
+      "sourceImage": "IMG_7796.JPG",
+      "webImage": "page_043.jpg",
+      "imageWidth": 2473,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Vf.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.5303,
+            "y": 0.466,
+            "width": 0.0146,
+            "height": 0.0046
+          }
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "sourceImage": "IMG_7797.JPG",
+      "webImage": "page_044.jpg",
+      "imageWidth": 2065,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "si,",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1012,
+            "y": 0.9549,
+            "width": 0.016,
+            "height": 0.0086
+          }
+        },
+        {
+          "text": "Manchmal frage ich mich,",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.486,
+            "y": 0.8366,
+            "width": 0.2991,
+            "height": 0.018
+          }
+        },
+        {
+          "text": "wo Pepper jetzt steckt.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.484,
+            "y": 0.8089,
+            "width": 0.272,
+            "height": 0.0177
+          }
+        },
+        {
+          "text": "Wo auch immer er ist:",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.4806,
+            "y": 0.7571,
+            "width": 0.2594,
+            "height": 0.0151
+          }
+        },
+        {
+          "text": "Ich hoffe, ihm geht's gut.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.4804,
+            "y": 0.7274,
+            "width": 0.2903,
+            "height": 0.0186
+          }
+        },
+        {
+          "text": "lj, -Iiii,",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.1704,
+            "y": 0.4869,
+            "width": 0.3485,
+            "height": 0.1303
+          }
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "sourceImage": "IMG_7798.JPG",
+      "webImage": "page_045.jpg",
+      "imageWidth": 2257,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "'Sp",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.8888,
+            "y": 0.9634,
+            "width": 0.0155,
+            "height": 0.0091
+          }
+        },
+        {
+          "text": "'il Il,,",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.0678,
+            "y": 0.2463,
+            "width": 0.1172,
+            "height": 0.0695
+          }
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "sourceImage": "IMG_7799.JPG",
+      "webImage": "page_046.jpg",
+      "imageWidth": 2423,
+      "imageHeight": 3500,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "11)j.L:; i. jlijl.,",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.6803,
+            "y": 0.4317,
+            "width": 0.1828,
+            "height": 0.0663
+          }
+        },
+        {
+          "text": ", Iiil",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.043,
+            "y": 0.2314,
+            "width": 0.0733,
+            "height": 0.0443
+          }
+        },
+        {
+          "text": "lél((!Ill';",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.5398,
+            "y": 0.1665,
+            "width": 0.1727,
+            "height": 0.1
+          }
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "sourceImage": "IMG_7800.JPG",
+      "webImage": "page_047.jpg",
+      "imageWidth": 1750,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 48,
+      "sourceImage": "IMG_7801.JPG",
+      "webImage": "page_048.jpg",
+      "imageWidth": 3203,
+      "imageHeight": 3500,
+      "hasText": false,
+      "lines": []
+    },
+    {
+      "page": 49,
+      "sourceImage": "IMG_7803.JPG",
+      "webImage": "page_049.jpg",
+      "imageWidth": 2497,
+      "imageHeight": 3499,
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Gestern bin ich hingefallen. Ober einen Pflasterstein",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2002,
+            "y": 0.8269,
+            "width": 0.5881,
+            "height": 0.0191
+          }
+        },
+        {
+          "text": "gestolpert und - paduffl - schon lag ich auf dem Boden.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1701,
+            "y": 0.8037,
+            "width": 0.6477,
+            "height": 0.0171
+          }
+        },
+        {
+          "text": "Als ich mich aufrappelte, war mein Knie aufgeschurft.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1898,
+            "y": 0.7791,
+            "width": 0.6089,
+            "height": 0.018
+          }
+        },
+        {
+          "text": "Es brannte so, so sehrl Ich hab geheult wie ein Baby.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.197,
+            "y": 0.7557,
+            "width": 0.5957,
+            "height": 0.0174
+          }
+        },
+        {
+          "text": "Mein Papa sagt. das gibt einen schönen Schorf.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2278,
+            "y": 0.7326,
+            "width": 0.534,
+            "height": 0.0171
+          }
+        },
+        {
+          "text": "Aber ein Schorf ist nicht schön. Und auf meinem",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.217,
+            "y": 0.7126,
+            "width": 0.5544,
+            "height": 0.0137
+          }
+        },
+        {
+          "text": "Knie erst recht nicht.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3755,
+            "y": 0.6894,
+            "width": 0.2406,
+            "height": 0.0137
+          }
+        },
+        {
+          "text": ".Eine einfache Geschichte. aber auch eine geheime Tür",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2122,
+            "y": 0.6026,
+            "width": 0.5693,
+            "height": 0.0149
+          }
+        },
+        {
+          "text": "zu dem Gefuhl der Tage und Wochen. wenn man klein Ist.",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.1998,
+            "y": 0.5809,
+            "width": 0.5941,
+            "height": 0.0154
+          }
+        },
+        {
+          "text": "Beatrice Alemagna hat den Schlussel, und wir haben",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2245,
+            "y": 0.5594,
+            "width": 0.5441,
+            "height": 0.0154
+          }
+        },
+        {
+          "text": "das große GlucK dass sie ihn hat.\"",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2421,
+            "y": 0.536,
+            "width": 0.3577,
+            "height": 0.0166
+          }
+        },
+        {
+          "text": "Jon Klassen",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.6281,
+            "y": 0.5409,
+            "width": 0.1229,
+            "height": 0.012
+          }
+        },
+        {
+          "text": "ISJN 97&344994J242.2",
+          "confidence": 0.3,
+          "bbox": {
+            "x": 0.3243,
+            "y": 0.0977,
+            "width": 0.1289,
+            "height": 0.0071
+          }
+        },
+        {
+          "text": "PBZ PESTALOZZI.WBUOTHEK ZORKH",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.0546,
+            "y": 0.0783,
+            "width": 0.2262,
+            "height": 0.014
+          }
+        },
+        {
+          "text": "llllll",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.2322,
+            "y": 0.048,
+            "width": 0.0504,
+            "height": 0.03
+          }
+        },
+        {
+          "text": "Unser Versprechen fur",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.5677,
+            "y": 0.0617,
+            "width": 0.195,
+            "height": 0.0143
+          }
+        },
+        {
+          "text": "mehr Nachhaltigkeit",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.5761,
+            "y": 0.0451,
+            "width": 0.1781,
+            "height": 0.014
+          }
+        },
+        {
+          "text": "9 78W8 K12422",
+          "confidence": 0.5,
+          "bbox": {
+            "x": 0.3135,
+            "y": 0.0457,
+            "width": 0.1317,
+            "height": 0.0091
+          }
+        }
+      ]
+    }
+  ]
+}
