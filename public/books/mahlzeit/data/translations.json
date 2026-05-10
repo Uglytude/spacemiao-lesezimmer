@@ -4,8 +4,8 @@
     "translation_en": "Bon appetit!"
   },
   "MAHLZEIT!": {
-    "translation_zh": "开饭啦！",
-    "translation_en": "Bon appetit!"
+    "translation_zh": "开饭了！",
+    "translation_en": "DINNER TIME!"
   },
   "KLOPF": {
     "translation_zh": "咚咚",
@@ -16,23 +16,23 @@
     "translation_en": "KNOCK"
   },
   "Grauschnauz beschloss zum Waldrand zu gehen, weg von seinem Rudel": {
-    "translation_zh": "灰胡子决定走到森林边缘远离他的狼群",
-    "translation_en": "Grauschnauz decided to go to the edge of the forest, away from his pack"
+    "translation_zh": "灰胡子决定走到森林边缘，离开他的狼群。",
+    "translation_en": "Grauschnauz decided to go to the edge of the forest, away from his pack."
   },
   "als er auf einmal etwas hörte ...": {
     "translation_zh": "突然他听到了什么声音……",
     "translation_en": "when all of a sudden he heard something..."
   },
   "Er folgte dem Geräusch und traf mitten auf einer Lichtung": {
-    "translation_zh": "他循着声音在一片林间空地上遇到了",
+    "translation_zh": "他循着声音，在一片林间空地上遇到了",
     "translation_en": "He followed the sound and met in the middle of a clearing"
   },
   "auf ein kleines Häschen. Es heulte nicht den Mond an.": {
-    "translation_zh": "一只小兔子。它不是在对月嚎叫。",
+    "translation_zh": "一只小兔子。它不是在对着月亮嚎叫。",
     "translation_en": "a little bunny. It wasn't howling at the moon."
   },
   "Grauschnauz zögerte. Das Häschen war so winzig. So flauschig.": {
-    "translation_zh": "灰胡子犹豫了。小兔子好小好毛茸茸的。",
+    "translation_zh": "灰胡子犹豫了。小兔子太小了。太毛茸茸了。",
     "translation_en": "Grauschnauz hesitated. The bunny was so tiny. So fluffy."
   },
   "Da konnte man nichts machen. Regel war nun mal Regel.": {
@@ -40,23 +40,23 @@
     "translation_en": "Nothing could be done. A rule was a rule."
   },
   "Grauschnauz musste erst": {
-    "translation_zh": "灰胡子必须先",
+    "translation_zh": "灰胡子得先",
     "translation_en": "Grauschnauz had to first"
   },
   "mal nachdenken.": {
-    "translation_zh": "好好想想。",
-    "translation_en": "think it over."
+    "translation_zh": "想一想。",
+    "translation_en": "think about it."
   },
   "Grauschnauz hatte sich entschieden.": {
-    "translation_zh": "灰胡子下定了决心。",
-    "translation_en": "Grauschnauz had made his decision."
+    "translation_zh": "灰胡子做出了决定。",
+    "translation_en": "Grauschnauz had made up his mind."
   },
   "Grauschnauz klopfte an die Tür.": {
     "translation_zh": "灰胡子敲了敲门。",
     "translation_en": "Grauschnauz knocked on the door."
   },
   "Kurz darauf öffnete nicht nur ein Hase,": {
-    "translation_zh": "不一会儿开门的不是一只兔子",
+    "translation_zh": "不一会儿，开门的不只是一只兔子，",
     "translation_en": "Shortly after, not just one rabbit opened,"
   },
   "... sondern eine ganze Familie Hasen die Tür.": {
@@ -64,7 +64,7 @@
     "translation_en": "but a whole family of rabbits opened the door."
   },
   "Bereits nach dem vierten Stück Karottenpastete war er pappsatt.": {
-    "translation_zh": "吃了第四块胡萝卜派之后他就撑得不行了。",
+    "translation_zh": "吃到第四块胡萝卜馅饼，他就撑得不行了。",
     "translation_en": "After the fourth piece of carrot pie he was stuffed."
   },
   "Er räusperte sich.": {
@@ -73,18 +73,18 @@
   },
   "Familie Hase": {
     "translation_zh": "兔子一家",
-    "translation_en": "The Rabbit Family"
+    "translation_en": "The Hare Family"
   },
   "Ganz herzlich": {
-    "translation_zh": "非常诚挚地",
-    "translation_en": "Very warmly"
+    "translation_zh": "衷心地",
+    "translation_en": "With warm regards"
   },
   "Was war er doch für ein Glückspilz!": {
-    "translation_zh": "他真是个幸运儿啊！",
-    "translation_en": "What a lucky fellow he was!"
+    "translation_zh": "他真是太幸运了！",
+    "translation_en": "What a lucky guy he was!"
   },
   "Selbst der Mond schien ein bisschen heller zu scheinen.": {
-    "translation_zh": "连月亮似乎都亮了一点。",
+    "translation_zh": "连月亮似乎都亮了一些。",
     "translation_en": "Even the moon seemed to shine a little brighter."
   },
   "auf ein leckeres Essen.": {
@@ -96,11 +96,11 @@
     "translation_en": "But what if they only served him salad?"
   },
   "Aber bestimmt würden sie das Richtige tun": {
-    "translation_zh": "但他们一定会做正确的事",
+    "translation_zh": "但他们肯定会做正确的事",
     "translation_en": "But surely they would do the right thing"
   },
   "und ihr Versprechen halten.": {
-    "translation_zh": "并遵守承诺。",
+    "translation_zh": "信守承诺的。",
     "translation_en": "and keep their promise."
   },
   "Vollmondrächte waren eine große Sache, Denn dann musste jeder Wolf-": {
@@ -306,5 +306,205 @@
   "ein großer, grauer Wolf ist.": {
     "translation_zh": "是一只灰色的大狼。",
     "translation_en": "are a big, grey wolf."
+  },
+  "AAA-HUUUUUU": {
+    "translation_zh": "啊——呜——",
+    "translation_en": "AAA-HOOOO"
+  },
+  "AU-UUU0U": {
+    "translation_zh": "嗷——呜",
+    "translation_en": "AH-OOOO"
+  },
+  "A-HUUUUUU": {
+    "translation_zh": "啊——呜——",
+    "translation_en": "A-HOOOO"
+  },
+  "AHUUUUUUUUU": {
+    "translation_zh": "啊呜————",
+    "translation_en": "AHOOOOOO"
+  },
+  "AA-U": {
+    "translation_zh": "啊——呜",
+    "translation_en": "AA-OO"
+  },
+  "AA-HUUUU": {
+    "translation_zh": "啊——呜——",
+    "translation_en": "AA-HOOOO"
+  },
+  "AHEN-": {
+    "translation_zh": "咳——",
+    "translation_en": "AHEM-"
+  },
+  "KHEM": {
+    "translation_zh": "咳嗯",
+    "translation_en": "KHEM"
+  },
+  "AAA-HUUUUUO, -": {
+    "translation_zh": "啊——呜————，",
+    "translation_en": "AAA-HOOOOO, -"
+  },
+  "WÄ-HÃÅA": {
+    "translation_zh": "哇——哈啊啊",
+    "translation_en": "WAA-HAAA"
+  },
+  "Wölfe sollten »AAA-HUUUU« heulen.": {
+    "translation_zh": "狼应该嚎‘啊——呜——’。",
+    "translation_en": "Wolves should howl AAA-HOOOO."
+  },
+  "Nicht »WÄ-HÄAÄÄÄ«.": {
+    "translation_zh": "而不是‘哇——哈啊啊’。",
+    "translation_en": "Not WAA-HAAA."
+  },
+  "Und die Wolfsregel war klar: Alle, die nach Einbruch der": {
+    "translation_zh": "狼的规矩很明确：天黑以后",
+    "translation_en": "And the wolf rule was clear: All who after nightfall"
+  },
+  "Dunkelheit im Wald gefunden wurden, mussten gefressen werden.": {
+    "translation_zh": "在森林里被发现的，都必须被吃掉。",
+    "translation_en": "were found in the forest, had to be eaten."
+  },
+  "Vielleicht war es ja doch schon Morgen? Nein, es war noch immer dunkle Nacht.": {
+    "translation_zh": "也许已经是早上了？不，仍然是漆黑的夜。",
+    "translation_en": "Maybe it was already morning? No, it was still dark night."
+  },
+  "HAAA...": {
+    "translation_zh": "哈啊啊……",
+    "translation_en": "HAAA..."
+  },
+  "... da kitzelte das Puschelschwänzchen des Häschens seine Nase.": {
+    "translation_zh": "……小兔子毛茸茸的尾巴挠了挠他的鼻子。",
+    "translation_en": "...the bunny's fluffy tail tickled his nose."
+  },
+  "АСНИШНИ!!": {
+    "translation_zh": "阿嚏！！",
+    "translation_en": "ACHOO!!"
+  },
+  "Außerdem lockte die Aussicht": {
+    "translation_zh": "而且一顿美味的",
+    "translation_en": "Besides, the prospect"
+  },
+  "Nun ja, dieses winzige Häschen hatte doch": {
+    "translation_zh": "嗯，这只小兔子",
+    "translation_en": "Well, this tiny bunny surely had"
+  },
+  "bestimmt noch ein paar saftigere Geschwister ...": {
+    "translation_zh": "肯定还有几个更肥美的兄弟姐妹……",
+    "translation_en": "surely a few juicier siblings..."
+  },
+  "Häschens die anderen": {
+    "translation_zh": "小兔子引来了其他",
+    "translation_en": "bunny attracted the other"
+  },
+  "*Was für ein hubsches, leckeres Häschena, geiferten die Wölfe.": {
+    "translation_zh": "多漂亮、多美味的小兔子啊，狼们口水直流。",
+    "translation_en": "What a pretty, delicious little bunny, the wolves drooled."
+  },
+  "Nein!r, sagte er, ›ihr könnt dieses Häschen nicht essen!«": {
+    "translation_zh": "不行！他说，你们不能吃这只小兔子！",
+    "translation_en": "No! he said, you can't eat this bunny!"
+  },
+  "•Nicht essen?« Die Wölfe waren verwirrt.": {
+    "translation_zh": "不吃？狼群困惑了。",
+    "translation_en": "Not eat? The wolves were confused."
+  },
+  "»Schaut doch, wie winzig es ist, meinte Grauschnauz.": {
+    "translation_zh": "看看它多小啊，灰胡子说。",
+    "translation_en": "Look how tiny it is, said Grauschnauz."
+  },
+  "»Ja, sehr klein«, stimmten die Wölfe zu. »Ein Häppchen«.": {
+    "translation_zh": "是的，很小，狼们同意。就一小口。",
+    "translation_en": "Yes, very small, the wolves agreed. Just a morsel."
+  },
+  "»Und es hat sich verlaufen«, fügte Grauschnauz hinzu.": {
+    "translation_zh": "而且它迷路了，灰胡子补充道。",
+    "translation_en": "And it got lost, Grauschnauz added."
+  },
+  "»Wie würde es euch gefallen, wenn ihr euch verlaufen hättet": {
+    "translation_zh": "如果你们迷了路",
+    "translation_en": "How would you like it if you got lost"
+  },
+  "und euch jemand als Zwischenmahlzeit betrachten würde?«": {
+    "translation_zh": "被人当零食吃，你们会怎么想？",
+    "translation_en": "and someone considered you a snack?"
+  },
+  "»Ich wäre ungern eine Zwischenmahlzeit«, murmelte ein kleiner Wolf.": {
+    "translation_zh": "我可不想当零食，一只小狼嘟囔道。",
+    "translation_en": "I wouldn't want to be a snack, mumbled a small wolf."
+  },
+  "»Es ist schon ziemlich niedlich ...«, gab ein anderer Wolf zu.": {
+    "translation_zh": "它确实挺可爱的……另一只狼承认道。",
+    "translation_en": "It is quite cute... admitted another wolf."
+  },
+  "»Darum bringe ich es jetzt zurück": {
+    "translation_zh": "所以我现在要把它送",
+    "translation_en": "That's why I'm bringing it back"
+  },
+  "HOCH!": {
+    "translation_zh": "高高！",
+    "translation_en": "HIGH!"
+  },
+  "MEIN ZUHAUSE!,": {
+    "translation_zh": "我的家！",
+    "translation_en": "MY HOME!"
+  },
+  "НОСНУ НОСН! НОСНІ НОСНІ НОСН!": {
+    "translation_zh": "跳跳！跳跳！跳跳跳！",
+    "translation_en": "HOPPY HOP! HOPPY HOPPY HOP!"
+  },
+  "IST DAS": {
+    "translation_zh": "这是",
+    "translation_en": "IS THAT"
+  },
+  "EURER?": {
+    "translation_zh": "你们的吗？",
+    "translation_en": "YOURS?"
+  },
+  "»Du hast Knuffel gefunden«, jubelten die Hasen. »Tausend Dank!«": {
+    "translation_zh": "你找到毛球了！兔子们欢呼。万分感谢！",
+    "translation_en": "You found Knuffel! cheered the rabbits. A thousand thanks!"
+  },
+  "»Mh, auf dem Zettel stand etwas von einem Essen?«, fragte er.": {
+    "translation_zh": "嗯，纸条上写了什么大餐来着？他问。",
+    "translation_en": "Um, the note said something about a meal? he asked."
+  },
+  "»Aber sicher doch!«, sagte Mama Hase.": {
+    "translation_zh": "当然啦！兔妈妈说。",
+    "translation_en": "But of course! said Mama Rabbit."
+  },
+  "»Wir haben immer Platz für einen zusätzlichen Gast.«": {
+    "translation_zh": "我们永远有位置给多一位客人。",
+    "translation_en": "We always have room for an extra guest."
+  },
+  "Grauschnauz bekam den Ehrenplatz. Noch nie hatte er so viel": {
+    "translation_zh": "灰胡子坐上了贵宾席。他从没见过这么多",
+    "translation_en": "Grauschnauz got the seat of honour. Never had he seen so much"
+  },
+  "Essen auf einmal - und so hübsch angerichtet - gesehen.": {
+    "translation_zh": "食物——而且摆得这么漂亮。",
+    "translation_en": "food at once - and so beautifully arranged."
+  },
+  "Vielleicht war es doch eine gute Entscheidung gewesen,": {
+    "translation_zh": "也许把小家伙送回家，",
+    "translation_en": "Maybe it was a good decision after all,"
+  },
+  "den kleinen Kerl nach Hause zu begleiten.": {
+    "translation_zh": "确实是个好决定。",
+    "translation_en": "to bring the little guy home."
+  },
+  "ein kleines Häschen nach Hause zu": {
+    "translation_zh": "把一只小兔子送回家——",
+    "translation_en": "to bring a little bunny home—"
+  },
+  "KNUFFEL?!": {
+    "translation_zh": "毛球？！",
+    "translation_en": "KNUFFEL?!"
+  },
+  "NICHT SCHON WIEDER!": {
+    "translation_zh": "不是又来了吧！",
+    "translation_en": "NOT AGAIN!"
+  },
+  "ARA-HUU": {
+    "translation_zh": "啊啦——呜",
+    "translation_en": "ARA-HOO"
   }
 }

@@ -210,12 +210,12 @@ html, body {
   cursor: pointer;
   text-decoration: none;
   color: var(--text-primary);
-  transition: transform 0.25s ease, opacity 0.25s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .book-card:hover {
-  transform: translateY(-3px);
-  opacity: 0.85;
+  transform: translateY(-8px) scale(1.03);
+  box-shadow: 0 12px 28px rgba(26, 26, 26, 0.08);
 }
 
 .book-card-cover {

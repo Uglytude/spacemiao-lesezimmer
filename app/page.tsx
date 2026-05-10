@@ -56,7 +56,7 @@ export default function HomePage() {
       >
         <img
           src="/logo-cat.png"
-          alt="SpaceMiao's cat mascot reading a book"
+          alt="Miao's cat mascot reading a book"
           className="cat-logo"
           style={{
             width: "180px",
@@ -76,7 +76,7 @@ export default function HomePage() {
             marginBottom: "8px",
           }}
         >
-          SpaceMiao&apos;s Lesezimmer
+          Miao&apos;s Lesezimmer
         </h1>
         <p
           style={{
@@ -153,7 +153,7 @@ export default function HomePage() {
           letterSpacing: "0.3px",
         }}
       >
-        仅供个人学习使用 · Built with love by SpaceMiao
+        仅供个人学习使用 · Built with love by Miao
       </p>
     </div>
   );
