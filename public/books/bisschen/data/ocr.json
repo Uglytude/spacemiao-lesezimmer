@@ -1,0 +1,1044 @@
+{
+  "author" : "Olivier Tallec",
+  "pageCount" : 37,
+  "pages" : [
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.021963824289405687,
+            "width" : 0.20973782857259116,
+            "x" : 0.38576779158136976,
+            "y" : 0.9315245478399548
+          },
+          "text" : "Olivier Tallec"
+        },
+        {
+          "bbox" : {
+            "height" : 0.05232558139534882,
+            "width" : 0.7977527872721354,
+            "x" : 0.08801499536205958,
+            "y" : 0.8604651160610465
+          },
+          "text" : "NUR EIN KLEINES"
+        },
+        {
+          "bbox" : {
+            "height" : 0.0799418604651162,
+            "width" : 0.6666666666666667,
+            "x" : 0.15543071136814282,
+            "y" : 0.7703488374444255
+          },
+          "text" : "BISSCHEN"
+        },
+        {
+          "bbox" : {
+            "height" : 0.018895348837209336,
+            "width" : 0.2153558095296224,
+            "x" : 0.40074906287329737,
+            "y" : 0.030523255895712254
+          },
+          "text" : "GERSTENBERG"
+        }
+      ],
+      "page" : 1,
+      "webImage" : "page_001.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 2,
+      "webImage" : "page_002.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 3,
+      "webImage" : "page_003.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.010174417990714169,
+            "width" : 0.09453781127929684,
+            "x" : 0.4453781541292591,
+            "y" : 0.2005813957284801
+          },
+          "text" : "2. Auflage 2021"
+        },
+        {
+          "bbox" : {
+            "height" : 0.011738552766687782,
+            "width" : 0.352941157023112,
+            "x" : 0.3172268996397045,
+            "y" : 0.188953488632555
+          },
+          "text" : "Text und Illustrationen Copyright © 2020 l'école des loisirs"
+        },
+        {
+          "bbox" : {
+            "height" : 0.01211072664359858,
+            "width" : 0.252100830078125,
+            "x" : 0.36764706080127374,
+            "y" : 0.17704728951886106
+          },
+          "text" : "Copyright der deutschsprachigen Ausgabe"
+        },
+        {
+          "bbox" : {
+            "height" : 0.011812317330119448,
+            "width" : 0.23529411315917964,
+            "x" : 0.3760504263335754,
+            "y" : 0.1655132639985658
+          },
+          "text" : "© 2021 Gerstenberg Verlag, Hildesheim"
+        },
+        {
+          "bbox" : {
+            "height" : 0.011718435408472394,
+            "width" : 0.3676470438639323,
+            "x" : 0.3109243832851205,
+            "y" : 0.15397923870122077
+          },
+          "text" : "Die Originalausgabe erschien unter dem Titel Un peu beaucoup"
+        },
+        {
+          "bbox" : {
+            "height" : 0.011813993684973267,
+            "width" : 0.15966386159261065,
+            "x" : 0.41386555019108956,
+            "y" : 0.14389534898865974
+          },
+          "text" : "bel l'école des loisirs, Paris."
+        },
+        {
+          "bbox" : {
+            "height" : 0.013273933767034896,
+            "width" : 0.2734873199462891,
+            "x" : 0.3590336529075256,
+            "y" : 0.13202606672189232
+          },
+          "text" : "Aus dem Französischen von Ina Kronenberger"
+        },
+        {
+          "bbox" : {
+            "height" : 0.008853370068120037,
+            "width" : 0.2542016855875651,
+            "x" : 0.3676470595434022,
+            "y" : 0.12341407160485107
+          },
+          "text" : "Alle deutschsprachigen Rechte vorbehalten"
+        },
+        {
+          "bbox" : {
+            "height" : 0.00875948869645804,
+            "width" : 0.2668067169189453,
+            "x" : 0.36134454403527516,
+            "y" : 0.11188004603610613
+          },
+          "text" : "Druck und Bindung: TBB a.s., Banska Bystrica"
+        },
+        {
+          "bbox" : {
+            "height" : 0.009227220299884653,
+            "width" : 0.18067226409912113,
+            "x" : 0.40336134393083173,
+            "y" : 0.10149942328865291
+          },
+          "text" : "Printed in the Slovak Republic"
+        },
+        {
+          "bbox" : {
+            "height" : 0.011627906746517813,
+            "width" : 0.16176470438639318,
+            "x" : 0.41386554427038885,
+            "y" : 0.07703488378759371
+          },
+          "text" : "www.gerstenberg-verlag.de"
+        },
+        {
+          "bbox" : {
+            "height" : 0.011664788753241173,
+            "width" : 0.14705881754557287,
+            "x" : 0.42016807205704537,
+            "y" : 0.055232558327322434
+          },
+          "text" : "ISBN 978-3-8369-6121-9"
+        }
+      ],
+      "page" : 4,
+      "webImage" : "page_004.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.023644752018454396,
+            "width" : 0.2100840250651042,
+            "x" : 0.39495798615442274,
+            "y" : 0.8748558248403663
+          },
+          "text" : "Olivier Tallec"
+        },
+        {
+          "bbox" : {
+            "height" : 0.05208252375513622,
+            "width" : 0.7632492065429688,
+            "x" : 0.11527185199354809,
+            "y" : 0.7934577812592334
+          },
+          "text" : "NUR EIN KLEINES"
+        },
+        {
+          "bbox" : {
+            "height" : 0.06942032282740196,
+            "width" : 0.5223521423339844,
+            "x" : 0.232521406455535,
+            "y" : 0.7080223966272885
+          },
+          "text" : "BISSCHEN"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02076124567474047,
+            "width" : 0.35924369812011714,
+            "x" : 0.3172268881904666,
+            "y" : 0.634948096959211
+          },
+          "text" : "Aus dem Französischen von"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02656338921605239,
+            "width" : 0.23328646341959636,
+            "x" : 0.3802055092382943,
+            "y" : 0.6000903981947103
+          },
+          "text" : "Ina Kronenberger"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020348835981428448,
+            "width" : 0.2710084025065104,
+            "x" : 0.39075630520682886,
+            "y" : 0.058139535570332246
+          },
+          "text" : "GERSTENBERG"
+        }
+      ],
+      "page" : 5,
+      "webImage" : "page_005.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 6,
+      "webImage" : "page_006.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.024968789013732784,
+            "width" : 0.738372090657552,
+            "x" : 0.1259689995840146,
+            "y" : 0.06679151046118048
+          },
+          "text" : "Ein Baum ist superempfindlich, man muss gut auf ihn aufpassen."
+        }
+      ],
+      "page" : 7,
+      "webImage" : "page_007.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.02194394698509805,
+            "width" : 0.33270319620768235,
+            "x" : 0.3327032189850058,
+            "y" : 0.0639534885850297
+          },
+          "text" : "Man muss mit ihm sprechen."
+        }
+      ],
+      "page" : 8,
+      "webImage" : "page_008.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.020348835824878342,
+            "width" : 0.755813954671224,
+            "x" : 0.1220930172657169,
+            "y" : 0.06976744246962063
+          },
+          "text" : "Ganz leise muss man mit ihm sprechen. Ihm in die Rinde flüstern."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02381594320956837,
+            "width" : 0.6359425862630209,
+            "x" : 0.18398669905673273,
+            "y" : 0.04354092191131531
+          },
+          "text" : "Man muss sich um ihn kümmern wie um einen Freund."
+        }
+      ],
+      "page" : 9,
+      "webImage" : "page_009.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.02076124567474047,
+            "width" : 0.5651260375976563,
+            "x" : 0.2289916070865259,
+            "y" : 0.062283736538188084
+          },
+          "text" : "Mein Baum und ich kümmern uns gut umeinander."
+        },
+        {
+          "bbox" : {
+            "height" : 0.021914648212226107,
+            "width" : 0.7184873962402344,
+            "x" : 0.15756302970101121,
+            "y" : 0.036332180120242974
+          },
+          "text" : "Ich spreche mit ihm und er schenkt mir manchmal einen Zapfen."
+        }
+      ],
+      "page" : 10,
+      "webImage" : "page_010.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.02197500028687227,
+            "width" : 0.5420168050130207,
+            "x" : 0.22689075224138872,
+            "y" : 0.06395348846221283
+          },
+          "text" : "Ich liebe Zapfen. Und er hat ja so viele davon ..."
+        }
+      ],
+      "page" : 11,
+      "webImage" : "page_011.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.026162791004642916,
+            "width" : 0.39285713195800775,
+            "x" : 0.3004201734292594,
+            "y" : 0.40697674381453897
+          },
+          "text" : "Aber Vorsicht, man darf nicht"
+        },
+        {
+          "bbox" : {
+            "height" : 0.026528258362168433,
+            "width" : 0.4054621887207031,
+            "x" : 0.2941176435072956,
+            "y" : 0.37773933098756995
+          },
+          "text" : "alle Zapfen auf einmal futtern!"
+        },
+        {
+          "bbox" : {
+            "height" : 0.026528258362168433,
+            "width" : 0.5630252075195312,
+            "x" : 0.21848739975914194,
+            "y" : 0.31949250302957843
+          },
+          "text" : "Man darf sich nur ein paar davon nehmen."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02620302572107369,
+            "width" : 0.40126050313313805,
+            "x" : 0.2962184904371074,
+            "y" : 0.2906574395668583
+          },
+          "text" : "Nur so viele, wie man braucht."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02941176470588236,
+            "width" : 0.5357142639160156,
+            "x" : 0.23319329344115183,
+            "y" : 0.22952710510380525
+          },
+          "text" : "Ein Baum ist nämlich superempfindlich,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.03409065809766865,
+            "width" : 0.3859247334798177,
+            "x" : 0.30412373244382584,
+            "y" : 0.20141916765867707
+          },
+          "text" : "man muss auf ihn aufpassen."
+        }
+      ],
+      "page" : 12,
+      "webImage" : "page_012.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 13,
+      "webImage" : "page_013.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.021914648212226107,
+            "width" : 0.4096638488769531,
+            "x" : 0.28781513945333,
+            "y" : 0.10899654031286032
+          },
+          "text" : "Gut, einen darf ich mir noch nehmen."
+        },
+        {
+          "bbox" : {
+            "height" : 0.022552184442610312,
+            "width" : 0.3305960845947265,
+            "x" : 0.327390230785576,
+            "y" : 0.08558087380458446
+          },
+          "text" : "Wo er doch so viele davon hat."
+        },
+        {
+          "bbox" : {
+            "height" : 0.023644752018454396,
+            "width" : 0.5021008300781249,
+            "x" : 0.24159664523404673,
+            "y" : 0.05940023034562647
+          },
+          "text" : "Hm, nach meinen Berechnungen kann ich mir"
+        },
+        {
+          "bbox" : {
+            "height" : 0.03043171663735289,
+            "width" : 0.5681590779622395,
+            "x" : 0.21181095937329295,
+            "y" : 0.033425912087678644
+          },
+          "text" : "noch mindestens zwei nehmen. Vielleicht sogar drei."
+        }
+      ],
+      "page" : 14,
+      "webImage" : "page_014.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.02667779603493936,
+            "width" : 0.555167490641276,
+            "x" : 0.2265663315672062,
+            "y" : 0.08390613869065922
+          },
+          "text" : "Okay, einen ganz kleinen noch, einen allerletzten!"
+        },
+        {
+          "bbox" : {
+            "height" : 0.026361254259789302,
+            "width" : 0.593043212890625,
+            "x" : 0.20561058844125066,
+            "y" : 0.05977513344095864
+          },
+          "text" : "Außerdem, irgendjemand futtert die Zapfen sowieso,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02326084255759686,
+            "width" : 0.32983192443847653,
+            "x" : 0.34243698002515943,
+            "y" : 0.03633218027419227
+          },
+          "text" : "warum dann nicht gleich ich?"
+        }
+      ],
+      "page" : 15,
+      "webImage" : "page_015.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.025489988082494475,
+            "width" : 0.45987172444661456,
+            "x" : 0.2625079538721002,
+            "y" : 0.06103121960340663
+          },
+          "text" : "Jetzt ist nur noch einer da, wie ärgerlich."
+        },
+        {
+          "bbox" : {
+            "height" : 0.030021117283747678,
+            "width" : 0.7924748229980468,
+            "x" : 0.1075477808328886,
+            "y" : 0.033355491452456754
+          },
+          "text" : "Am besten futtere ich ihn sofort, dann ist das ein für allemal erledigt!"
+        }
+      ],
+      "page" : 16,
+      "webImage" : "page_016.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.023644752018454396,
+            "width" : 0.8214285786946615,
+            "x" : 0.09243697005392978,
+            "y" : 0.06228373706064938
+          },
+          "text" : "Her damit! Außerdem ist es gar nicht schlinım, wenn mein Baum keine"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02769004267392272,
+            "width" : 0.7776900227864583,
+            "x" : 0.1069520496710975,
+            "y" : 0.03543935065035031
+          },
+          "text" : "Zapfen mehr hat, er hat ja an seinen Zweigen noch ganz viele Nadeln."
+        }
+      ],
+      "page" : 17,
+      "webImage" : "page_017.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.023644752018454396,
+            "width" : 0.4369747924804687,
+            "x" : 0.2941176488978207,
+            "y" : 0.0622837372544478
+          },
+          "text" : "Jetzt ist nur noch einer da, wie ärgerlich."
+        },
+        {
+          "bbox" : {
+            "height" : 0.037627359850046505,
+            "width" : 0.7596283467610677,
+            "x" : 0.14640844846520432,
+            "y" : 0.030088876541978005
+          },
+          "text" : "Am besten futtere ich ihn sofort, dann ist das ein für allemal erledigt!"
+        }
+      ],
+      "page" : 18,
+      "webImage" : "page_018.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.024881976698509112,
+            "width" : 0.8340336100260417,
+            "x" : 0.09243697904160096,
+            "y" : 0.0610465119691701
+          },
+          "text" : "Her damit! Außerdem ist es gar nicht schlimm, wenn mein Baum keine"
+        },
+        {
+          "bbox" : {
+            "height" : 0.028592314274665798,
+            "width" : 0.7862272135416667,
+            "x" : 0.10688306032166746,
+            "y" : 0.03344064752861686
+          },
+          "text" : "Zapfen mehr hat, er hat ja an seinen Zweigen noch ganz viele Nadeln."
+        }
+      ],
+      "page" : 19,
+      "webImage" : "page_019.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.0277131777543288,
+            "width" : 0.2948960367838541,
+            "x" : 0.36294895885287437,
+            "y" : 0.3139534885691324
+          },
+          "text" : "Die schmecken lecker,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.024709302951128165,
+            "width" : 0.4177693684895833,
+            "x" : 0.3043478257552084,
+            "y" : 0.28779069723083117
+          },
+          "text" : "ganz zart und ein bisschen süß."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02511362907214043,
+            "width" : 0.18345626831054684,
+            "x" : 0.4196140223514747,
+            "y" : 0.2483443480520181
+          },
+          "text" : "Das liebe ich."
+        }
+      ],
+      "page" : 20,
+      "webImage" : "page_020.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 21,
+      "webImage" : "page_021.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.02368800089909484,
+            "width" : 0.18820954640706383,
+            "x" : 0.3777098958239274,
+            "y" : 0.370425729867606
+          },
+          "text" : "Aber Vorsicht,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.03289795410938756,
+            "width" : 0.45312652587890623,
+            "x" : 0.25091347405985365,
+            "y" : 0.33684619456999687
+          },
+          "text" : "man darf nicht alle Nadeln futtern,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.04324861184144635,
+            "width" : 0.5235149129231771,
+            "x" : 0.21864828422489913,
+            "y" : 0.30480215541126066
+          },
+          "text" : "ein Baum ist nämlich superempfindlich,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.035372680272811485,
+            "width" : 0.37945401509602866,
+            "x" : 0.28683853646139595,
+            "y" : 0.27972032916681466
+          },
+          "text" : "man muss auf ihn achtgeben."
+        },
+        {
+          "bbox" : {
+            "height" : 0.03884472724718924,
+            "width" : 0.5213057963053386,
+            "x" : 0.2205988914024679,
+            "y" : 0.23795998150802455
+          },
+          "text" : "Man kann mal hier, mal da eine futtern,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.029099581791804385,
+            "width" : 0.4499054972330729,
+            "x" : 0.2533081253721213,
+            "y" : 0.2121794869740914
+          },
+          "text" : "aber nur so viele, wie man braucht."
+        }
+      ],
+      "page" : 22,
+      "webImage" : "page_022.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 23,
+      "webImage" : "page_023.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.03490057728557305,
+            "width" : 0.8057767740885416,
+            "x" : 0.10450401535584262,
+            "y" : 0.05358182987031501
+          },
+          "text" : "Na ja, vielleicht habe ich ein paar zu viel gefuttert. Aber das macht nichts,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.032543703759005393,
+            "width" : 0.6921041870117187,
+            "x" : 0.15922573531363204,
+            "y" : 0.030416819863410938
+          },
+          "text" : "er hat ja auch noch Zweige. Und davon hat er wuemontreblich."
+        }
+      ],
+      "page" : 24,
+      "webImage" : "page_024.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.023644752018454507,
+            "width" : 0.5021008300781251,
+            "x" : 0.2668067242676602,
+            "y" : 0.8719723184693356
+          },
+          "text" : "Mit seinen Zweigen mache ich übrigens gern"
+        },
+        {
+          "bbox" : {
+            "height" : 0.019098200462543735,
+            "width" : 0.25420168558756506,
+            "x" : 0.3970588189534163,
+            "y" : 0.8488372094733458
+          },
+          "text" : "ein kleines Feuerchen."
+        },
+        {
+          "bbox" : {
+            "height" : 0.019123346885320247,
+            "width" : 0.36764704386393227,
+            "x" : 0.3382352985337202,
+            "y" : 0.813725490007613
+          },
+          "text" : "Aber nur mit den allerkleinsten,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.023255813493035626,
+            "width" : 0.38025210062662756,
+            "x" : 0.3319327779692492,
+            "y" : 0.7848837211604589
+          },
+          "text" : "die zu nichts zu gebrauchen sind."
+        },
+        {
+          "bbox" : {
+            "height" : 0.024709301148868934,
+            "width" : 0.4684873962402344,
+            "x" : 0.2878151300941685,
+            "y" : 0.7587209308354492
+          },
+          "text" : "Ein Baum ist nämlich superempfindlich,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.0257060745045663,
+            "width" : 0.33678080240885416,
+            "x" : 0.352694683671866,
+            "y" : 0.7315825082264785
+          },
+          "text" : "man muss auf ihn aufpassen."
+        },
+        {
+          "bbox" : {
+            "height" : 0.030158350899420316,
+            "width" : 0.7233765157063801,
+            "x" : 0.1425793919388344,
+            "y" : 0.05980489098820174
+          },
+          "text" : "Für ein Feuerchen darf man sich schon mal einen Zweig nehmen,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.023644752018454396,
+            "width" : 0.4138655344645182,
+            "x" : 0.3046218511676008,
+            "y" : 0.034602075897053
+          },
+          "text" : "einen einzigen bloß, und nicht zu oft."
+        }
+      ],
+      "page" : 25,
+      "webImage" : "page_025.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.022021891323665832,
+            "width" : 0.7267441813151041,
+            "x" : 0.14534884684244778,
+            "y" : 0.3837209300532737
+          },
+          "text" : "Wenn man Freunde hat, braucht man allerdings ein großes Feuer."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02325581373198049,
+            "width" : 0.47480621337890627,
+            "x" : 0.2635658903066709,
+            "y" : 0.357558139616568
+          },
+          "text" : "Und dafür braucht man einen dickeren Ast,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.021802325969034086,
+            "width" : 0.2984496053059896,
+            "x" : 0.3488372092171604,
+            "y" : 0.3343023256601051
+          },
+          "text" : "der große Flammen macht."
+        },
+        {
+          "bbox" : {
+            "height" : 0.023707747012934877,
+            "width" : 0.3860383605957031,
+            "x" : 0.30602059028850287,
+            "y" : 0.3008075775582183
+          },
+          "text" : "Aber das ist auch gar kein Problem,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.025902620713213698,
+            "width" : 0.3765804545084636,
+            "x" : 0.3117972902319523,
+            "y" : 0.277477154096313
+          },
+          "text" : "mein Baum hat so viele dicke Äste."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02325581373198049,
+            "width" : 0.44186045328776047,
+            "x" : 0.2790697724355772,
+            "y" : 0.2514534887735447
+          },
+          "text" : "Davon kann er mir ruhig hin und wieder"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020348835824878342,
+            "width" : 0.16472867329915358,
+            "x" : 0.414728688253524,
+            "y" : 0.22819767508174682
+          },
+          "text" : "einen abgeben."
+        }
+      ],
+      "page" : 26,
+      "webImage" : "page_026.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 27,
+      "webImage" : "page_027.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 28,
+      "webImage" : "page_028.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 29,
+      "webImage" : "page_029.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.026474309771248428,
+            "width" : 0.6825818379720052,
+            "x" : 0.1703652526050926,
+            "y" : 0.08714164049322903
+          },
+          "text" : "Was ich an meinem Baum sonst noch liebe, sind die Wurzeln."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02208540174696183,
+            "width" : 0.6511627705891927,
+            "x" : 0.18604652633331056,
+            "y" : 0.06367041238996385
+          },
+          "text" : "Man kann sie nicht sehen, sie sind unter der Erde versteckt,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020348835824878342,
+            "width" : 0.4883720906575521,
+            "x" : 0.26550388118931173,
+            "y" : 0.039244186569149964
+          },
+          "text" : "aber manchmal schauen Teile davon heraus."
+        }
+      ],
+      "page" : 30,
+      "webImage" : "page_030.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.021805636160466046,
+            "width" : 0.6543478242786415,
+            "x" : 0.17826086392589682,
+            "y" : 0.0973804097013119
+          },
+          "text" : "Ich knabbere für mein Leben gern ein Stückchen davon ab."
+        },
+        {
+          "bbox" : {
+            "height" : 0.021838744300373025,
+            "width" : 0.4760869560696604,
+            "x" : 0.2695652194216915,
+            "y" : 0.07118451068931198
+          },
+          "text" : "Aber Vorsicht, nur ein winziges Stückchen,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.023348519362186848,
+            "width" : 0.3956521601246406,
+            "x" : 0.31304348798115794,
+            "y" : 0.044988610827506936
+          },
+          "text" : "sonst kann der Baum kaputtgehen."
+        }
+      ],
+      "page" : 31,
+      "webImage" : "page_031.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.05345945322558232,
+            "width" : 0.667822977701823,
+            "x" : 0.11569290775660003,
+            "y" : 0.6087478028369557
+          },
+          "text" : "Oh! Ein Eichhörnchen!"
+        }
+      ],
+      "page" : 32,
+      "webImage" : "page_032.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 33,
+      "webImage" : "page_033.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 34,
+      "webImage" : "page_034.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.031465548860728054,
+            "width" : 0.5420525467984721,
+            "x" : 0.29092397147563365,
+            "y" : 0.8952101829991284
+          },
+          "text" : "Ein Eichhörnchen ist superempfindlich,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02505694760820043,
+            "width" : 0.4413043514427172,
+            "x" : 0.3391304285612502,
+            "y" : 0.8690205006192129
+          },
+          "text" : "man muss gut darauf aufpassen!"
+        }
+      ],
+      "page" : 35,
+      "webImage" : "page_035.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 36,
+      "webImage" : "page_036.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 37,
+      "webImage" : "page_037.jpg"
+    }
+  ],
+  "title" : "Nur ein kleines bisschen"
+}

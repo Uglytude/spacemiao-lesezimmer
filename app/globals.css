@@ -1,37 +1,27 @@
 /* === SpaceMiao's Lesezimmer — Global Styles === */
-/* Design: Warm, cozy, hand-drawn illustration style */
-/* Reference: UNFILLED brand aesthetic */
+/* Design: Warm minimal — UNFILLED warmth × Zara editorial crispness */
 
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&family=Inter:wght@300;400;500&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
 
 :root {
-  /* Warm palette */
-  --bg: #F5F0E8;
-  --bg-card: #FFFDF9;
-  --text-primary: #2C3244;
-  --text-secondary: #6B6560;
-  --text-muted: #A39E96;
-  --accent-blue: #2C4A7C;
-  --accent-gold: #D4A853;
-  --accent-orange: #C4854C;
-  --border: rgba(44, 50, 68, 0.08);
-  --shadow-soft: 0 2px 16px rgba(44, 50, 68, 0.06);
-  --shadow-card: 0 4px 24px rgba(44, 50, 68, 0.08);
-  --shadow-card-hover: 0 8px 32px rgba(44, 50, 68, 0.12);
+  /* 4-color palette */
+  --bg: #F9F3E2;
+  --text-primary: #1A1A1A;
+  --text-secondary: #8A8580;
+  --accent: #2C4A7C;
+  --border: rgba(26, 26, 26, 0.06);
 
-  /* Glass — warm tint */
-  --glass-bg: rgba(255, 253, 249, 0.82);
-  --glass-border: rgba(255, 253, 249, 0.6);
+  /* Glass */
+  --glass-bg: rgba(249, 243, 226, 0.92);
+  --glass-border: rgba(249, 243, 226, 0.6);
   --glass-blur: 16px;
 
   /* Typography */
-  --font-handwritten: 'Caveat', cursive;
-  --font-display: 'Playfair Display', Georgia, serif;
+  --font-display: Georgia, 'Times New Roman', Times, serif;
   --font-body: 'Inter', -apple-system, sans-serif;
 
   /* Spacing */
-  --radius: 16px;
-  --radius-sm: 10px;
+  --radius: 0px;
 }
 
 * {
@@ -45,8 +35,26 @@ html, body {
   font-family: var(--font-body);
   background: var(--bg);
   color: var(--text-primary);
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+/* === Cat Logo Animation === */
+.cat-logo {
+  transition: transform 0.3s ease;
+}
+
+.cat-logo:hover {
+  animation: cat-wiggle 0.6s ease-in-out infinite;
+}
+
+@keyframes cat-wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(3deg) translateY(-2px); }
+  75% { transform: rotate(-3deg) translateY(-2px); }
 }
 
 /* === App Shell === */
@@ -62,11 +70,9 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 14px 32px;
+  padding: 16px 32px;
   border-bottom: 1px solid var(--border);
-  background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur));
-  -webkit-backdrop-filter: blur(var(--glass-blur));
+  background: var(--bg);
   position: sticky;
   top: 0;
   z-index: 50;
@@ -75,31 +81,31 @@ html, body {
 .header-left {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   text-decoration: none;
   color: var(--text-primary);
 }
 
 .header-logo {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  object-fit: cover;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
 }
 
 .header-title {
-  font-family: var(--font-handwritten);
-  font-size: 22px;
-  font-weight: 500;
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: italic;
   color: var(--text-primary);
-  letter-spacing: 0.3px;
 }
 
 .header-title span {
   color: var(--text-muted);
   font-family: var(--font-body);
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 300;
+  font-style: normal;
   margin-left: 12px;
 }
 
@@ -107,12 +113,14 @@ html, body {
   font-size: 13px;
   color: var(--text-secondary);
   text-decoration: none;
-  font-weight: 400;
+  background: none;
+  font-weight: 300;
+  letter-spacing: 0.5px;
   transition: color 0.2s;
 }
 
 .header-back:hover {
-  color: var(--accent-blue);
+  color: var(--accent);
 }
 
 /* === HOME PAGE === */
@@ -128,46 +136,62 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 48px 24px 32px;
-  gap: 8px;
+  padding: 56px 24px 20px;
+  gap: 12px;
 }
 
 .home-logo {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 8px;
-  box-shadow: var(--shadow-soft);
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+  margin-bottom: 12px;
 }
 
 .home-name {
-  font-family: var(--font-handwritten);
-  font-size: 36px;
-  font-weight: 600;
+  font-family: var(--font-display);
+  font-size: 32px;
+  font-weight: normal;
+  font-style: italic;
   color: var(--text-primary);
 }
 
 .home-slogan {
   font-size: 14px;
   font-weight: 300;
+  color: var(--text-secondary);
+  letter-spacing: 0.3px;
+  text-align: center;
+  max-width: 400px;
+  line-height: 1.6;
+}
+
+.home-tagline {
+  font-size: 12px;
+  font-weight: 300;
   color: var(--text-muted);
   letter-spacing: 0.5px;
+  margin-top: 4px;
+  text-align: center;
+  max-width: 360px;
+  line-height: 1.5;
 }
 
 /* Shelf */
 .shelf-section {
   width: 100%;
   max-width: 800px;
-  padding: 24px 32px 48px;
+  padding: 32px 32px 48px;
 }
 
 .shelf-title {
-  font-family: var(--font-handwritten);
-  font-size: 24px;
-  font-weight: 500;
-  color: var(--text-secondary);
-  margin-bottom: 20px;
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: normal;
+  font-style: italic;
+  color: var(--text-primary);
+  margin-bottom: 24px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
 }
 
 .shelf-grid {
@@ -180,26 +204,24 @@ html, body {
 .book-card {
   display: flex;
   flex-direction: column;
-  background: var(--bg-card);
+  background: var(--bg);
   border-radius: var(--radius);
   overflow: hidden;
-  box-shadow: var(--shadow-card);
   cursor: pointer;
   text-decoration: none;
   color: var(--text-primary);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  transition: transform 0.25s ease, opacity 0.25s ease;
 }
 
 .book-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-3px);
+  opacity: 0.85;
 }
 
 .book-card-cover {
   width: 100%;
   aspect-ratio: 3 / 4;
   object-fit: cover;
-  border-bottom: 1px solid var(--border);
 }
 
 .book-card-info {
@@ -209,26 +231,27 @@ html, body {
 .book-card-title {
   font-family: var(--font-display);
   font-size: 15px;
-  font-weight: 600;
+  font-weight: normal;
+  font-style: italic;
   margin-bottom: 4px;
-  line-height: 1.3;
+  line-height: 1.4;
 }
 
 .book-card-author {
   font-size: 12px;
   font-weight: 300;
-  color: var(--text-muted);
+  color: var(--text-secondary);
 }
 
 /* Coming soon card */
 .book-card.coming-soon {
-  opacity: 0.5;
+  opacity: 0.4;
   cursor: default;
 }
 
 .book-card.coming-soon:hover {
   transform: none;
-  box-shadow: var(--shadow-card);
+  border-color: var(--border);
 }
 
 .book-card-placeholder {
@@ -250,9 +273,55 @@ html, body {
   align-items: center;
   justify-content: center;
   padding: 16px;
-  gap: 12px;
+  gap: 8px;
   overflow: hidden;
   min-height: 0;
+}
+
+.reader-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-height: calc(100vh - 120px);
+  position: relative;
+}
+
+.side-btn {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  font-size: 22px;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  z-index: 40;
+  transition: all 0.2s ease;
+}
+
+.side-btn.side-left {
+  left: 16px;
+}
+
+.side-btn.side-right {
+  right: 16px;
+}
+
+.side-btn:hover:not(:disabled) {
+  color: var(--text-primary);
+  border-color: rgba(26, 26, 26, 0.25);
+  background: var(--bg-card);
+}
+
+.side-btn:disabled {
+  opacity: 0.12;
+  border-color: transparent;
+  background: transparent;
+  backdrop-filter: none;
 }
 
 .book-container {
@@ -262,14 +331,8 @@ html, body {
   max-height: calc(100vh - 140px);
   border-radius: var(--radius);
   overflow: hidden;
-  box-shadow: var(--shadow-card);
   cursor: default;
-  transition: box-shadow 0.3s ease;
   flex-shrink: 1;
-}
-
-.book-container:hover {
-  box-shadow: var(--shadow-card-hover);
 }
 
 .book-image {
@@ -296,21 +359,21 @@ html, body {
   position: absolute;
   pointer-events: all;
   cursor: pointer;
-  border-radius: 4px;
+  border-radius: 0;
   transition: background 0.2s ease;
 }
 
 .ocr-box:hover {
-  background: rgba(44, 74, 124, 0.08);
+  background: rgba(44, 74, 124, 0.10);
 }
 
 .ocr-box.active {
-  background: rgba(44, 74, 124, 0.12);
+  background: rgba(44, 74, 124, 0.15);
 }
 
 /* === Translation Popover === */
 .popover {
-  position: absolute;
+  position: fixed;
   z-index: 100;
   min-width: 260px;
   max-width: 360px;
@@ -320,7 +383,6 @@ html, body {
   -webkit-backdrop-filter: blur(20px);
   border: 1px solid var(--glass-border);
   border-radius: var(--radius);
-  box-shadow: 0 8px 32px rgba(44, 50, 68, 0.12);
   animation: popover-in 0.2s ease-out;
 }
 
@@ -332,11 +394,30 @@ html, body {
 .popover-german {
   font-family: var(--font-display);
   font-size: 17px;
-  font-weight: 400;
+  font-weight: normal;
+  font-style: italic;
   color: var(--text-primary);
   margin-bottom: 14px;
   line-height: 1.5;
-  font-style: italic;
+}
+
+.tts-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 8px;
+  padding: 2px 4px;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+  vertical-align: middle;
+}
+
+.tts-btn:hover {
+  opacity: 1;
 }
 
 .popover-divider {
@@ -378,7 +459,7 @@ html, body {
 .sheet-backdrop {
   position: fixed;
   inset: 0;
-  background: rgba(44, 50, 68, 0.15);
+  background: rgba(26, 26, 26, 0.12);
   z-index: 200;
   animation: fade-in 0.2s ease;
 }
@@ -398,7 +479,7 @@ html, body {
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
   border-top: 1px solid var(--glass-border);
-  border-radius: 20px 20px 0 0;
+  border-radius: 0;
   padding: 12px 24px 32px;
   animation: sheet-up 0.3s cubic-bezier(0.32, 0.72, 0, 1);
 }
@@ -436,7 +517,7 @@ html, body {
   width: 40px;
   height: 40px;
   border: none;
-  border-radius: 50%;
+  border-radius: 0;
   background: transparent;
   color: var(--text-secondary);
   font-size: 20px;
@@ -446,7 +527,7 @@ html, body {
 
 .page-btn:hover:not(:disabled) {
   background: rgba(44, 74, 124, 0.06);
-  color: var(--accent-blue);
+  color: var(--accent);
 }
 
 .page-btn:disabled {
@@ -455,8 +536,10 @@ html, body {
 }
 
 .page-info {
+  font-family: var(--font-display);
   font-size: 13px;
-  font-weight: 300;
+  font-weight: normal;
+  font-style: italic;
   color: var(--text-muted);
   letter-spacing: 1px;
   min-width: 80px;
@@ -490,7 +573,7 @@ html, body {
   }
 
   .header-title {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .header-title span {
@@ -498,29 +581,37 @@ html, body {
   }
 
   .reader {
-    padding: 8px;
-    gap: 8px;
+    padding: 4px;
+    gap: 4px;
   }
 
   .book-container {
     max-width: 100%;
-    border-radius: var(--radius-sm);
   }
 
-  .home-hero {
-    padding: 32px 16px 24px;
+  .side-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
   }
 
-  .home-name {
-    font-size: 28px;
+  .side-btn.side-left {
+    left: 4px;
   }
 
-  .shelf-section {
-    padding: 16px 16px 32px;
+  .side-btn.side-right {
+    right: 4px;
   }
 
-  .shelf-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 16px;
+  .popover {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .side-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
   }
 }

@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import CatTrail from "./components/CatTrail";
 
 export const metadata: Metadata = {
   title: "SpaceMiao's Lesezimmer",
-  description: "学德语，一页一页来。一个可以点击翻译的德语绘本阅读平台。",
+  description: "帮助不说德语的妈妈，给小朋友讲德语绘本故事。点击德语文字，即可看到中英文翻译。",
 };
 
 export default function RootLayout({
@@ -13,7 +14,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="de">
-      <body>{children}</body>
+      <body>
+        {children}
+        <CatTrail />
+      </body>
     </html>
   );
 }

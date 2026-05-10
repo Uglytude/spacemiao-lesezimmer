@@ -1,0 +1,1521 @@
+{
+  "author" : "Magali Franov",
+  "pageCount" : 47,
+  "pages" : [
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.040181103356595416,
+            "width" : 0.25193305969238283,
+            "x" : 0.3942169556663326,
+            "y" : 0.891246658023804
+          },
+          "text" : "Magali Franov"
+        },
+        {
+          "bbox" : {
+            "height" : 0.07451081087218103,
+            "width" : 0.4500101216634114,
+            "x" : 0.31352705028213884,
+            "y" : 0.7999538969513819
+          },
+          "text" : "ZUHAUSE"
+        },
+        {
+          "bbox" : {
+            "height" : 0.1067133276946941,
+            "width" : 0.587042236328125,
+            "x" : 0.22882306083019746,
+            "y" : 0.6947138005065205
+          },
+          "text" : "AUF DER KLiPPE"
+        },
+        {
+          "bbox" : {
+            "height" : 0.017441860289561073,
+            "width" : 0.08440366744995115,
+            "x" : 0.48990825731477977,
+            "y" : 0.06249999999087841
+          },
+          "text" : "Edition"
+        },
+        {
+          "bbox" : {
+            "height" : 0.028555464933289754,
+            "width" : 0.15988853454589846,
+            "x" : 0.46225756659116046,
+            "y" : 0.046042034917501806
+          },
+          "text" : "NILPFERD"
+        }
+      ],
+      "page" : 1,
+      "webImage" : "page_001.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 2,
+      "webImage" : "page_002.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 3,
+      "webImage" : "page_003.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.040237087217852796,
+            "width" : 0.2663765462239584,
+            "x" : 0.3444993521332603,
+            "y" : 0.7313349461528755
+          },
+          "text" : "Magali Franov"
+        },
+        {
+          "bbox" : {
+            "height" : 0.07558139450091472,
+            "width" : 0.43610544840494797,
+            "x" : 0.2758620842288985,
+            "y" : 0.6279069774200853
+          },
+          "text" : "ZUHAUSE"
+        },
+        {
+          "bbox" : {
+            "height" : 0.09597199507226795,
+            "width" : 0.5593557739257812,
+            "x" : 0.19840996914725148,
+            "y" : 0.5351579128602527
+          },
+          "text" : "AUF DER KLiPPE"
+        },
+        {
+          "bbox" : {
+            "height" : 0.018125650275992666,
+            "width" : 0.08950500488281249,
+            "x" : 0.4298925272419401,
+            "y" : 0.10140229106269671
+          },
+          "text" : "Edition"
+        },
+        {
+          "bbox" : {
+            "height" : 0.019081975966513953,
+            "width" : 0.12987009684244794,
+            "x" : 0.4381075487965939,
+            "y" : 0.08566250025261957
+          },
+          "text" : "NILPFERD"
+        }
+      ],
+      "page" : 4,
+      "webImage" : "page_004.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.04354998606060623,
+            "width" : 0.5593508911132812,
+            "x" : 0.17787224377947572,
+            "y" : 0.8900557508122133
+          },
+          "text" : "Hoch oben auf der Klippe steht ein kleines Haus."
+        },
+        {
+          "bbox" : {
+            "height" : 0.031801061892728244,
+            "width" : 0.32096577962239586,
+            "x" : 0.20549342218583605,
+            "y" : 0.8569894318652612
+          },
+          "text" : "Die Sonne wärmt sein Dach,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.04215681880985922,
+            "width" : 0.4054852040608724,
+            "x" : 0.23273491270321908,
+            "y" : 0.8166229300543328
+          },
+          "text" : "die Wellen wiegen es in den Schlaf."
+        },
+        {
+          "bbox" : {
+            "height" : 0.0246103859822685,
+            "width" : 0.19727341969807946,
+            "x" : 0.17252004951982294,
+            "y" : 0.737475412842471
+          },
+          "text" : "Hier gehört es hin."
+        }
+      ],
+      "page" : 5,
+      "webImage" : "page_005.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 6,
+      "webImage" : "page_006.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.03830489756206923,
+            "width" : 0.5598226420084635,
+            "x" : 0.11302874379629359,
+            "y" : 0.8857822021238255
+          },
+          "text" : "Doch wenn die Farben des Sommers verblassen,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.03873045664267605,
+            "width" : 0.450408935546875,
+            "x" : 0.10858131763030196,
+            "y" : 0.8463713420145658
+          },
+          "text" : "spürt das Haus tief in sich einen Wunsch."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02341524055151567,
+            "width" : 0.28215766906738277,
+            "x" : 0.23651452767239428,
+            "y" : 0.7876312715289817
+          },
+          "text" : "Es schaut den Vögeln zu,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02325581447107239,
+            "width" : 0.278008295694987,
+            "x" : 0.2365145260892285,
+            "y" : 0.7499999998502196
+          },
+          "text" : "die in den Süden fliegen."
+        }
+      ],
+      "page" : 7,
+      "webImage" : "page_007.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.02906976846548226,
+            "width" : 0.028355391820271802,
+            "x" : 0.8052930034203619,
+            "y" : 0.6220930228651271
+          },
+          "text" : "VIV"
+        }
+      ],
+      "page" : 8,
+      "webImage" : "page_008.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.03652213035373508,
+            "width" : 0.42031661987304686,
+            "x" : 0.359315917506214,
+            "y" : 0.9232635741561709
+          },
+          "text" : "In ihrem Gezwitscher hört das Haus"
+        },
+        {
+          "bbox" : {
+            "height" : 0.03448334418305554,
+            "width" : 0.392776616414388,
+            "x" : 0.3234934728030556,
+            "y" : 0.8844984767674814
+          },
+          "text" : "Geschichten von einsamen Inseln"
+        },
+        {
+          "bbox" : {
+            "height" : 0.027912461429560942,
+            "width" : 0.2424634806315104,
+            "x" : 0.3808182542197793,
+            "y" : 0.847455023846595
+          },
+          "text" : "und bunten Städten."
+        }
+      ],
+      "page" : 9,
+      "webImage" : "page_009.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.020348836281789295,
+            "width" : 0.025590550104776955,
+            "x" : 0.5118110242422309,
+            "y" : 0.6845930235499968
+          },
+          "text" : "9"
+        },
+        {
+          "bbox" : {
+            "height" : 0.019065190651906483,
+            "width" : 0.2755905405680339,
+            "x" : 0.20275590858737416,
+            "y" : 0.1408364085079049
+          },
+          "text" : "Von fremden Gerüchen"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02091020910209107,
+            "width" : 0.3031495920817057,
+            "x" : 0.22244095502213918,
+            "y" : 0.10147601514027471
+          },
+          "text" : "und tanzenden Sprachen."
+        }
+      ],
+      "page" : 10,
+      "webImage" : "page_010.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 11,
+      "webImage" : "page_011.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.023255814371457295,
+            "width" : 0.30246912638346357,
+            "x" : 0.48353909662308314,
+            "y" : 0.32558139490729465
+          },
+          "text" : "An einem frühen Morgen"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02215715684654851,
+            "width" : 0.360725326538086,
+            "x" : 0.5120107024649708,
+            "y" : 0.2904743858046829
+          },
+          "text" : "schwimmt ein Buckelwal vorbei."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02500376572176488,
+            "width" : 0.34156377156575524,
+            "x" : 0.5123456845531992,
+            "y" : 0.24970553605830592
+          },
+          "text" : "Er singt vom Tosen der Wellen"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020348837575025147,
+            "width" : 0.370370356241862,
+            "x" : 0.5020576239366822,
+            "y" : 0.21656976722992916
+          },
+          "text" : "und den Geheimnissen der See."
+        }
+      ],
+      "page" : 12,
+      "webImage" : "page_012.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.05014280128248927,
+            "width" : 0.13447303771972663,
+            "x" : 0.8318557679873193,
+            "y" : 0.23412526217982765
+          },
+          "text" : "nore"
+        }
+      ],
+      "page" : 13,
+      "webImage" : "page_013.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.03589579945795429,
+            "width" : 0.06459789276123051,
+            "x" : 0.2830928665442738,
+            "y" : 0.8531566894743039
+          },
+          "text" : "(IDO"
+        },
+        {
+          "bbox" : {
+            "height" : 0.017441859924836822,
+            "width" : 0.0397614320119222,
+            "x" : 0.10536779286083811,
+            "y" : 0.3372093027701397
+          },
+          "text" : "000"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02641772643076512,
+            "width" : 0.5566600545247395,
+            "x" : 0.31809144801927364,
+            "y" : 0.30207064503902525
+          },
+          "text" : "Er beschreibt die welt unter dem Meeresspiegel."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02212025738807899,
+            "width" : 0.44580744425455726,
+            "x" : 0.3377448647974624,
+            "y" : 0.268753998620889
+          },
+          "text" : "Das endlose Blau und die sonderbaren"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020401948842874496,
+            "width" : 0.23459243774414068,
+            "x" : 0.44135189095468347,
+            "y" : 0.22959805060011107
+          },
+          "text" : "Kreaturen der Tiefe."
+        }
+      ],
+      "page" : 14,
+      "webImage" : "page_014.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.020520535965412035,
+            "width" : 0.38302276611328123,
+            "x" : 0.207039345162821,
+            "y" : 0.12046783661643667
+          },
+          "text" : "Das Haus spürt, wie es kühler wird"
+        },
+        {
+          "bbox" : {
+            "height" : 0.017441859998201026,
+            "width" : 0.3540372721354167,
+            "x" : 0.20496894448784717,
+            "y" : 0.08575581404159716
+          },
+          "text" : "Eine Wolke verdeckt die Sonne"
+        }
+      ],
+      "page" : 15,
+      "webImage" : "page_015.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.04310294222240607,
+            "width" : 0.3801822662353516,
+            "x" : 0.45731462418058516,
+            "y" : 0.8986173406727656
+          },
+          "text" : "Ihr Schatten trägt Erinnerungen"
+        },
+        {
+          "bbox" : {
+            "height" : 0.041388249312832026,
+            "width" : 0.4274033101399739,
+            "x" : 0.47201587926864486,
+            "y" : 0.8614499754435019
+          },
+          "text" : "an Bergspitzen, an Wind und Wasser."
+        }
+      ],
+      "page" : 16,
+      "webImage" : "page_016.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 17,
+      "webImage" : "page_017.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.02323856842823524,
+            "width" : 0.4879776000976563,
+            "x" : 0.29100958422460604,
+            "y" : 0.8734360145357851
+          },
+          "text" : "Sie erzählt von der Welt hinter dem Horizont."
+        },
+        {
+          "bbox" : {
+            "height" : 0.01747167538373895,
+            "width" : 0.4366729736328125,
+            "x" : 0.30056710923274305,
+            "y" : 0.8371794870095194
+          },
+          "text" : "Wie klein alles scheint von so weit oben."
+        }
+      ],
+      "page" : 18,
+      "webImage" : "page_018.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.025983735582349454,
+            "width" : 0.44674875895182287,
+            "x" : 0.1707761281015305,
+            "y" : 0.9039151995143816
+          },
+          "text" : "Wie sehr sich das Haus streckt und reckt,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.019042252643780233,
+            "width" : 0.2627291107177735,
+            "x" : 0.16496945423378137,
+            "y" : 0.8691860464521393
+          },
+          "text" : "immer bleibt es stehen."
+        }
+      ],
+      "page" : 19,
+      "webImage" : "page_019.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.022541327368773678,
+            "width" : 0.3772268676757813,
+            "x" : 0.41932597710911457,
+            "y" : 0.5356732739618772
+          },
+          "text" : "Tagaus, tagein schaut es hinaus..."
+        }
+      ],
+      "page" : 20,
+      "webImage" : "page_020.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.025826661680314444,
+            "width" : 0.4266414133707683,
+            "x" : 0.2886284079183605,
+            "y" : 0.48815724999897037
+          },
+          "text" : "... auf immer denselben weiten Ozean"
+        }
+      ],
+      "page" : 21,
+      "webImage" : "page_021.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 22,
+      "webImage" : "page_022.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 23,
+      "webImage" : "page_023.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.029647994421609147,
+            "width" : 0.5021219786048541,
+            "x" : 0.32777190520718646,
+            "y" : 0.18287004882216618
+          },
+          "text" : "Mitten im Dunkeln sieht das Haus ein Licht."
+        },
+        {
+          "bbox" : {
+            "height" : 0.02054087067519339,
+            "width" : 0.3952483614487494,
+            "x" : 0.3801296022669859,
+            "y" : 0.14806378091184402
+          },
+          "text" : "Ein kleines Boot verloren im Sturm."
+        }
+      ],
+      "page" : 24,
+      "webImage" : "page_024.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.020500769044740963,
+            "width" : 0.41250000000000003,
+            "x" : 0.27083333677083327,
+            "y" : 0.1306620209801319
+          },
+          "text" : "Egal ob Regen, Wind oder Schnee,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020519339664472502,
+            "width" : 0.2833333333333333,
+            "x" : 0.45416666869047617,
+            "y" : 0.08284883688521028
+          },
+          "text" : "das Haus steht immer da"
+        }
+      ],
+      "page" : 25,
+      "webImage" : "page_025.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 26,
+      "webImage" : "page_026.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.025447781956295157,
+            "width" : 0.3838544209798177,
+            "x" : 0.12569845476224428,
+            "y" : 0.7963805818530643
+          },
+          "text" : "Das alte Haus hat krumme Balken"
+        },
+        {
+          "bbox" : {
+            "height" : 0.025220223471044023,
+            "width" : 0.3672607421875,
+            "x" : 0.10557660633694033,
+            "y" : 0.7540318854029767
+          },
+          "text" : "Staub kitzelt die dunklen Ecken."
+        },
+        {
+          "bbox" : {
+            "height" : 0.023950588121992578,
+            "width" : 0.40183820088704425,
+            "x" : 0.13002947011526952,
+            "y" : 0.7130924001702508
+          },
+          "text" : "An den Wänden haften schwache"
+        },
+        {
+          "bbox" : {
+            "height" : 0.022089221106131207,
+            "width" : 0.4175152587890625,
+            "x" : 0.14867618437838104,
+            "y" : 0.6712247327995082
+          },
+          "text" : "Erinnerungen an vergangene Zeiten"
+        }
+      ],
+      "page" : 27,
+      "webImage" : "page_027.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 28,
+      "webImage" : "page_028.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.03851762346488219,
+            "width" : 0.09837010065714519,
+            "x" : 0.36457847881777145,
+            "y" : 0.3946312588563876
+          },
+          "text" : "his collabc"
+        },
+        {
+          "bbox" : {
+            "height" : 0.03343024611899337,
+            "width" : 0.1138211441040039,
+            "x" : 0.3313008108748273,
+            "y" : 0.4113372021715821
+          },
+          "text" : "syke sort"
+        }
+      ],
+      "page" : 29,
+      "webImage" : "page_029.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.05957574344713212,
+            "width" : 0.39692766169355953,
+            "x" : 0.10337235746999295,
+            "y" : 0.8927817006375205
+          },
+          "text" : "Das Haus lauscht Geschichten"
+        },
+        {
+          "bbox" : {
+            "height" : 0.047442238531786085,
+            "width" : 0.35485537903047704,
+            "x" : 0.1340143083454919,
+            "y" : 0.8609790524037698
+          },
+          "text" : "von Städten unter Wasser"
+        },
+        {
+          "bbox" : {
+            "height" : 0.039028311101613644,
+            "width" : 0.35198567528606717,
+            "x" : 0.17348586996162305,
+            "y" : 0.8247835608851173
+          },
+          "text" : "und zwölfarmigen Kraken."
+        }
+      ],
+      "page" : 30,
+      "webImage" : "page_030.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.0191046513148716,
+            "width" : 0.4152542368570963,
+            "x" : 0.21398304691043493,
+            "y" : 0.21199999969920413
+          },
+          "text" : "Am Morgen wird das Haus geweckt"
+        },
+        {
+          "bbox" : {
+            "height" : 0.019028238568987166,
+            "width" : 0.25,
+            "x" : 0.3262711855932203,
+            "y" : 0.1742857146543909
+          },
+          "text" : "von tapsenden Füßen"
+        },
+        {
+          "bbox" : {
+            "height" : 0.0174418596540179,
+            "width" : 0.24364405314127602,
+            "x" : 0.40042373812745513,
+            "y" : 0.1351744192282237
+          },
+          "text" : "auf morschen Dielen."
+        }
+      ],
+      "page" : 31,
+      "webImage" : "page_031.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 32,
+      "webImage" : "page_032.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 33,
+      "webImage" : "page_033.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 34,
+      "webImage" : "page_034.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.01902137395274439,
+            "width" : 0.4087101999918619,
+            "x" : 0.15745394804427,
+            "y" : 0.8966763007669881
+          },
+          "text" : "Schimmelflecken werden überdeckt"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020348836920853985,
+            "width" : 0.32830820719401044,
+            "x" : 0.23115578239964463,
+            "y" : 0.8575581394756195
+          },
+          "text" : "von Postkarten aus der Ferne."
+        }
+      ],
+      "page" : 35,
+      "webImage" : "page_035.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.019835841309979174,
+            "width" : 0.05567273457845057,
+            "x" : 0.698764061883779,
+            "y" : 0.7505984953290004
+          },
+          "text" : "Für aus:"
+        },
+        {
+          "bbox" : {
+            "height" : 0.017756125364748576,
+            "width" : 0.049912659327189135,
+            "x" : 0.7006233782194624,
+            "y" : 0.738450660525113
+          },
+          "text" : "ass ein"
+        },
+        {
+          "bbox" : {
+            "height" : 0.010174418157166243,
+            "width" : 0.023032628695170088,
+            "x" : 0.7236084459211288,
+            "y" : 0.7281976747029091
+          },
+          "text" : "erha"
+        },
+        {
+          "bbox" : {
+            "height" : 0.013370993158405398,
+            "width" : 0.09980805714925134,
+            "x" : 0.6449136290069482,
+            "y" : 0.6828499372390999
+          },
+          "text" : "a par sam"
+        },
+        {
+          "bbox" : {
+            "height" : 0.06528784137355426,
+            "width" : 0.01950884977976486,
+            "x" : 0.6501681711410545,
+            "y" : 0.5444147915741181
+          },
+          "text" : "lerende an de"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02761627957318802,
+            "width" : 0.01727447509765634,
+            "x" : 0.6948176568049785,
+            "y" : 0.5799418604435417
+          },
+          "text" : "qe i."
+        },
+        {
+          "bbox" : {
+            "height" : 0.05732688086029858,
+            "width" : 0.01565563519795732,
+            "x" : 0.7014220270543009,
+            "y" : 0.4807540489233887
+          },
+          "text" : "•purterpoo."
+        },
+        {
+          "bbox" : {
+            "height" : 0.013081395460708412,
+            "width" : 0.05374280293782546,
+            "x" : 0.46449136211074177,
+            "y" : 0.43168604661920973
+          },
+          "text" : "13200 10"
+        },
+        {
+          "bbox" : {
+            "height" : 0.07944097434737785,
+            "width" : 0.01886327425638834,
+            "x" : 0.614953420835583,
+            "y" : 0.42251341294061473
+          },
+          "text" : "\/tossen. Man poi"
+        },
+        {
+          "bbox" : {
+            "height" : 0.06870549263298742,
+            "width" : 0.014467708269755075,
+            "x" : 0.6837905448111311,
+            "y" : 0.4169239231779269
+          },
+          "text" : "Rica mit elr"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02761627957318802,
+            "width" : 0.011516317526499426,
+            "x" : 0.14779270496035873,
+            "y" : 0.3851744188132121
+          },
+          "text" : "Diar"
+        },
+        {
+          "bbox" : {
+            "height" : 0.007267442056239748,
+            "width" : 0.021113243103027368,
+            "x" : 0.38579654539392094,
+            "y" : 0.20348837204704617
+          },
+          "text" : "J111"
+        },
+        {
+          "bbox" : {
+            "height" : 0.024566337710521302,
+            "width" : 0.015135173797607426,
+            "x" : 0.2697836610968814,
+            "y" : 0.17376334320378062
+          },
+          "text" : "tast"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02470930226964574,
+            "width" : 0.015355089505513508,
+            "x" : 0.2879078678055103,
+            "y" : 0.17005813973934658
+          },
+          "text" : "-40J"
+        },
+        {
+          "bbox" : {
+            "height" : 0.010174418157166243,
+            "width" : 0.09021113077799481,
+            "x" : 0.5047984668246942,
+            "y" : 0.13517441894951776
+          },
+          "text" : "stenses"
+        },
+        {
+          "bbox" : {
+            "height" : 0.01728225866753097,
+            "width" : 0.13374629974365232,
+            "x" : 0.45996615988281503,
+            "y" : 0.14163925637625818
+          },
+          "text" : "er Altersvorsorge nur"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02206809583858771,
+            "width" : 0.3570057423909505,
+            "x" : 0.39923225611464264,
+            "y" : 0.07250945731825653
+          },
+          "text" : "Lachen erfüllt die alten Wände."
+        }
+      ],
+      "page" : 36,
+      "webImage" : "page_036.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.07344604146379241,
+            "width" : 0.08867772420247395,
+            "x" : 0.10196436272620034,
+            "y" : 0.12884095678658836
+          },
+          "text" : "Logbuch"
+        },
+        {
+          "bbox" : {
+            "height" : 0.023255812885403238,
+            "width" : 0.07350426991780601,
+            "x" : 0.5965811984171653,
+            "y" : 0.5988372100301667
+          },
+          "text" : "DABE"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02761627932108157,
+            "width" : 0.035897436141967776,
+            "x" : 0.48205128167260586,
+            "y" : 0.3938953489088113
+          },
+          "text" : "A"
+        },
+        {
+          "bbox" : {
+            "height" : 0.024709301697296127,
+            "width" : 0.02905982971191401,
+            "x" : 0.5213675209645557,
+            "y" : 0.4011627911353636
+          },
+          "text" : "A"
+        },
+        {
+          "bbox" : {
+            "height" : 0.058525425854215496,
+            "width" : 0.0942986679077148,
+            "x" : 0.6836456099677052,
+            "y" : 0.19461180144288193
+          },
+          "text" : "NAUTIC"
+        },
+        {
+          "bbox" : {
+            "height" : 0.022952141910369206,
+            "width" : 0.06125584284464525,
+            "x" : 0.8668027740805132,
+            "y" : 0.5023644997909527
+          },
+          "text" : "227"
+        },
+        {
+          "bbox" : {
+            "height" : 0.011627906442701619,
+            "width" : 0.01196581204732261,
+            "x" : 0.9675213674093872,
+            "y" : 0.49418604687554835
+          },
+          "text" : "S"
+        }
+      ],
+      "page" : 37,
+      "webImage" : "page_037.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.021802326277190587,
+            "width" : 0.47592590332031254,
+            "x" : 0.261111127173177,
+            "y" : 0.8822674415271023
+          },
+          "text" : "Wie sehr hat es vermisst, ein Zuhause zu sein."
+        }
+      ],
+      "page" : 38,
+      "webImage" : "page_038.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.059559414698998836,
+            "width" : 0.0678123728434245,
+            "x" : 0.2919854259850476,
+            "y" : 0.6010451683299629
+          },
+          "text" : "TIFE"
+        },
+        {
+          "bbox" : {
+            "height" : 0.035952466500141056,
+            "width" : 0.039025866190592395,
+            "x" : 0.400999739701837,
+            "y" : 0.4306173037833837
+          },
+          "text" : "игли"
+        },
+        {
+          "bbox" : {
+            "height" : 0.05112859289386418,
+            "width" : 0.0787193616231282,
+            "x" : 0.8556996078011817,
+            "y" : 0.6382438424479497
+          },
+          "text" : "1683"
+        }
+      ],
+      "page" : 39,
+      "webImage" : "page_039.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 40,
+      "webImage" : "page_040.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.031909292172162984,
+            "width" : 0.4037469482421875,
+            "x" : 0.49097869145344664,
+            "y" : 0.1596441752053781
+          },
+          "text" : "Fest und beständig steht das Haus"
+        },
+        {
+          "bbox" : {
+            "height" : 0.021966308202498896,
+            "width" : 0.31568997701009116,
+            "x" : 0.5311909298503419,
+            "y" : 0.12354651207340184
+          },
+          "text" : "hoch oben auf der Klippe."
+        },
+        {
+          "bbox" : {
+            "height" : 0.023263267370370766,
+            "width" : 0.489603017171224,
+            "x" : 0.4102079461245328,
+            "y" : 0.07994186122759361
+          },
+          "text" : "Und jeder Tag bringt ein neues Abenteuer."
+        }
+      ],
+      "page" : 41,
+      "webImage" : "page_041.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 42,
+      "webImage" : "page_042.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.03250749661372254,
+            "width" : 0.7284642028808593,
+            "x" : 0.13579663463014469,
+            "y" : 0.41647641319911366
+          },
+          "text" : "Magali Franov (*2000) ist in einer alten Mühle in einem kleinen Dorf"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02732857435177538,
+            "width" : 0.6979541524251303,
+            "x" : 0.13212240246097187,
+            "y" : 0.38876030260853334
+          },
+          "text" : "im Schweizer Jura aufgewachsen. Schon als kleines Kind verbrachte"
+        },
+        {
+          "bbox" : {
+            "height" : 0.024947726420867067,
+            "width" : 0.7073456319173177,
+            "x" : 0.13401167407431663,
+            "y" : 0.36053182425152
+          },
+          "text" : "sie ihre Zeit am liebsten mit Zeichnen, Basteln und Malen. Seit dem"
+        },
+        {
+          "bbox" : {
+            "height" : 0.023549789037459967,
+            "width" : 0.7318617248535155,
+            "x" : 0.1321721115973033,
+            "y" : 0.33259827115400853
+          },
+          "text" : "Abschluss ihres Studiums in Illustration an der HSLU Luzern lebt und"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02034883621411443,
+            "width" : 0.7277882893880209,
+            "x" : 0.13232514292413688,
+            "y" : 0.30232558168945445
+          },
+          "text" : "arbeitet sie in Basel als freischaffende Illustratorin. Ob unterwegs oder"
+        },
+        {
+          "bbox" : {
+            "height" : 0.02180977968069231,
+            "width" : 0.6918714396158855,
+            "x" : 0.13232515552286997,
+            "y" : 0.2717948713394137
+          },
+          "text" : "im Atelier, zeichnen tut sie immer noch jeden Tag. Zuhause auf der"
+        },
+        {
+          "bbox" : {
+            "height" : 0.022055754294762253,
+            "width" : 0.6956521606445313,
+            "x" : 0.13232515536771539,
+            "y" : 0.24102564092834755
+          },
+          "text" : "Klippe ist ihr erstes Bilderbuch. Es wurde 2023 mit dem Buntspecht"
+        },
+        {
+          "bbox" : {
+            "height" : 0.021936493653517464,
+            "width" : 0.6918714396158854,
+            "x" : 0.1266540780181441,
+            "y" : 0.21075581426574674
+          },
+          "text" : "- Nachwuchspreis für Bilderbuchillustration ausgezeichnet sowie für"
+        },
+        {
+          "bbox" : {
+            "height" : 0.023360166794214487,
+            "width" : 0.6597353108723958,
+            "x" : 0.1323251555515149,
+            "y" : 0.1801282050208276
+          },
+          "text" : "den Unpublished Picturebook Showcase ausgewählt. Wenn Magali"
+        },
+        {
+          "bbox" : {
+            "height" : 0.022085570066403104,
+            "width" : 0.6880907185872396,
+            "x" : 0.13232515794645563,
+            "y" : 0.14970930233502966
+          },
+          "text" : "nicht gerade zeichnet, ist sie leidenschaftliche (Stadt-) Velofahrerin,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.018895348524435973,
+            "width" : 0.3327031962076823,
+            "x" : 0.1323251532509162,
+            "y" : 0.12354651177218123
+          },
+          "text" : "Pflanzenmama und Büchermaus."
+        }
+      ],
+      "page" : 43,
+      "webImage" : "page_043.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.023263267370370766,
+            "width" : 0.3875236256917318,
+            "x" : 0.32136106326809577,
+            "y" : 0.7717948716165983
+          },
+          "text" : "Für Elin, Dimi, Mami, Papi und Noah."
+        },
+        {
+          "bbox" : {
+            "height" : 0.020557542947622354,
+            "width" : 0.22117202758789067,
+            "x" : 0.40642722030003253,
+            "y" : 0.7441860463978922
+          },
+          "text" : "Ihr seid mein Zuhause."
+        },
+        {
+          "bbox" : {
+            "height" : 0.007267441505040884,
+            "width" : 0.01890359083811441,
+            "x" : 0.21172022758031267,
+            "y" : 0.46220930257596793
+          },
+          "text" : "MIX"
+        },
+        {
+          "bbox" : {
+            "height" : 0.008974358974358942,
+            "width" : 0.058601131439208975,
+            "x" : 0.19092627811309873,
+            "y" : 0.4403846155070491
+          },
+          "text" : "FSC* C043108"
+        },
+        {
+          "bbox" : {
+            "height" : 0.01308139532040331,
+            "width" : 0.17580340067545572,
+            "x" : 0.14366729952994697,
+            "y" : 0.4069767442438681
+          },
+          "text" : "ISBN 978-3-7074-5314-0"
+        },
+        {
+          "bbox" : {
+            "height" : 0.017549044046646478,
+            "width" : 0.10812369028727212,
+            "x" : 0.1434806875311144,
+            "y" : 0.3873010595660158
+          },
+          "text" : "1. Auflage 2025"
+        },
+        {
+          "bbox" : {
+            "height" : 0.0174418596120981,
+            "width" : 0.257088851928711,
+            "x" : 0.14366729609883652,
+            "y" : 0.3691860469796653
+          },
+          "text" : "Text und Illustrationen: Magali Franov"
+        },
+        {
+          "bbox" : {
+            "height" : 0.013126117755205224,
+            "width" : 0.17958412170410157,
+            "x" : 0.14366729867063346,
+            "y" : 0.3561046511951763
+          },
+          "text" : "Lektorat: Valerie Meinitzer"
+        },
+        {
+          "bbox" : {
+            "height" : 0.014743589743589691,
+            "width" : 0.24574668884277345,
+            "x" : 0.13988657883003108,
+            "y" : 0.3384615384441869
+          },
+          "text" : "Satz: studioback.at \/ Annett Stolarski"
+        },
+        {
+          "bbox" : {
+            "height" : 0.017948717948717996,
+            "width" : 0.4782608540852865,
+            "x" : 0.14177695133637366,
+            "y" : 0.3166666666951006
+          },
+          "text" : "Druck und Bindung: Grafisches Centrum Cuno GmbH & Co. KG, Calbe"
+        },
+        {
+          "bbox" : {
+            "height" : 0.022540126702724317,
+            "width" : 0.42407142639160156,
+            "x" : 0.14146394906230417,
+            "y" : 0.2875274703538646
+          },
+          "text" : "© 2025 G&G Verlagsgesellschaft mbH, Frankgasse 4, 1090 Wien"
+        },
+        {
+          "bbox" : {
+            "height" : 0.015988371922419642,
+            "width" : 0.20226842244466145,
+            "x" : 0.13988658475120422,
+            "y" : 0.274709302454488
+          },
+          "text" : "produktsicherheit@ggverlag.at"
+        },
+        {
+          "bbox" : {
+            "height" : 0.021181384111062074,
+            "width" : 0.6034577941894531,
+            "x" : 0.13967967946437398,
+            "y" : 0.24292772261754136
+          },
+          "text" : "Alle Rechte vorbehalten. Jede Art der Vervielfältigung, auch die des auszugsweisen Nachdrucks,"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020596027374267578,
+            "width" : 0.6260290018717447,
+            "x" : 0.13970713355618652,
+            "y" : 0.22564009217247105
+          },
+          "text" : "der fotomechanischen Wiedergabe, der Einspeicherung und Verarbeitung in elektronische Systeme"
+        },
+        {
+          "bbox" : {
+            "height" : 0.020298793988350106,
+            "width" : 0.642972157796224,
+            "x" : 0.13976438682133893,
+            "y" : 0.20818743817363317
+          },
+          "text" : "sowie Text- und Dara-Mining sind ohne ausdrückliche Zustimmung des Verlages gesetzlich verboren."
+        },
+        {
+          "bbox" : {
+            "height" : 0.019433485544644857,
+            "width" : 0.40679972330729164,
+            "x" : 0.1396880362373286,
+            "y" : 0.1922039278729375
+          },
+          "text" : "Gedruckt auf Papier aus geprüfter nachhaltiger Forstwirtschaft."
+        },
+        {
+          "bbox" : {
+            "height" : 0.015988371922419642,
+            "width" : 0.11153119405110676,
+            "x" : 0.139886577171044,
+            "y" : 0.16715116271611574
+          },
+          "text" : "www.nilpferd.at"
+        },
+        {
+          "bbox" : {
+            "height" : 0.0130813953204032,
+            "width" : 0.11342154184977213,
+            "x" : 0.14177694315828968,
+            "y" : 0.15116279080273454
+          },
+          "text" : "www.ggverlag.at"
+        },
+        {
+          "bbox" : {
+            "height" : 0.017805130053789142,
+            "width" : 0.3367782847086589,
+            "x" : 0.14352842730060908,
+            "y" : 0.12057346997893903
+          },
+          "text" : "Die Edition NILPFERD erscheint im G&G Verlag."
+        }
+      ],
+      "page" : 44,
+      "webImage" : "page_044.jpg"
+    },
+    {
+      "hasText" : false,
+      "lines" : [
+
+      ],
+      "page" : 45,
+      "webImage" : "page_045.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.0795010215357731,
+            "width" : 0.04068629264831547,
+            "x" : 0.5239818021589403,
+            "y" : 0.7082427020351169
+          },
+          "text" : "GEE"
+        }
+      ],
+      "page" : 46,
+      "webImage" : "page_046.jpg"
+    },
+    {
+      "hasText" : true,
+      "lines" : [
+        {
+          "bbox" : {
+            "height" : 0.04245880861850437,
+            "width" : 0.2543020884195964,
+            "x" : 0.39005736775642236,
+            "y" : 0.8878327002242385
+          },
+          "text" : "Magali Franov"
+        },
+        {
+          "bbox" : {
+            "height" : 0.07706791789510548,
+            "width" : 0.45587997436523436,
+            "x" : 0.3055208146117688,
+            "y" : 0.7950416223792611
+          },
+          "text" : "ZUHAUSE"
+        },
+        {
+          "bbox" : {
+            "height" : 0.09011628086878165,
+            "width" : 0.5850860595703125,
+            "x" : 0.2256214050945861,
+            "y" : 0.7020348830585712
+          },
+          "text" : "AUF DER KLiPPE"
+        },
+        {
+          "bbox" : {
+            "height" : 0.011627906779977049,
+            "width" : 0.05353728612263997,
+            "x" : 0.4856596556639827,
+            "y" : 0.06976744203152296
+          },
+          "text" : "CItIol"
+        },
+        {
+          "bbox" : {
+            "height" : 0.013081394674206881,
+            "width" : 0.10133843104044593,
+            "x" : 0.4856596553593181,
+            "y" : 0.056686046834408144
+          },
+          "text" : "IILDESDI"
+        }
+      ],
+      "page" : 47,
+      "webImage" : "page_047.jpg"
+    }
+  ],
+  "title" : "Zuhause auf der Klippe"
+}
