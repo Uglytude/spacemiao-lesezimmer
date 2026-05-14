@@ -29,6 +29,13 @@ const books = [
     cover: "/books/bisschen/pages-web/page_001.jpg",
     ready: true,
   },
+  {
+    id: "mario",
+    title: "Marios Grosses Abenteuer",
+    author: "Nintendo / Illumination",
+    cover: "/books/mario/pages-web/page_001.jpg",
+    ready: true,
+  },
 ];
 
 export default function HomePage() {
