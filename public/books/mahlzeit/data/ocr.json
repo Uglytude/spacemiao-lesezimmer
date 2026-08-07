@@ -1,0 +1,1641 @@
+{
+  "author": "Larysa Maliush",
+  "pageCount": 31,
+  "pages": [
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.024943735009880452,
+            "width": 0.21981981913248694,
+            "x": 0.5045045042046703,
+            "y": 0.8689516132931165
+          },
+          "text": "Larysa Maliush"
+        },
+        {
+          "bbox": {
+            "height": 0.11166654607301107,
+            "width": 0.5255977376302083,
+            "x": 0.3597236552291948,
+            "y": 0.7348644010340246
+          },
+          "text": "Mahlzeit!"
+        },
+        {
+          "bbox": {
+            "height": 0.01895786421273349,
+            "width": 0.2720720672607422,
+            "x": 0.4810810815691141,
+            "y": 0.7034883720491314
+          },
+          "text": "Übersetzt von Anna Schaub"
+        },
+        {
+          "bbox": {
+            "height": 0.023255814788162077,
+            "width": 0.0630630620320638,
+            "x": 0.8486486495582924,
+            "y": 0.19186046475344787
+          },
+          "text": "Nord"
+        },
+        {
+          "bbox": {
+            "height": 0.021802325402536682,
+            "width": 0.06126125971476237,
+            "x": 0.8486486495345107,
+            "y": 0.1642441862722055
+          },
+          "text": "Süd"
+        }
+      ],
+      "page": 1,
+      "webImage": "page_001.jpg"
+    },
+    {
+      "hasText": false,
+      "lines": [],
+      "page": 2,
+      "webImage": "page_002.jpg"
+    },
+    {
+      "hasText": false,
+      "lines": [],
+      "page": 3,
+      "webImage": "page_003.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.018075048717247966,
+            "width": 0.4308851623535156,
+            "x": 0.09863183804720345,
+            "y": 0.7469068653463486
+          },
+          "text": "Larysa Maliush wurde in Minsk, Belarus, geboren"
+        },
+        {
+          "bbox": {
+            "height": 0.014658941117124957,
+            "width": 0.45378148396809903,
+            "x": 0.09873951335808741,
+            "y": 0.7295271051754075
+          },
+          "text": "und lebt derzeit in Berlin. Als Autorin und Illustratorin"
+        },
+        {
+          "bbox": {
+            "height": 0.017441860669761944,
+            "width": 0.44327728271484373,
+            "x": 0.09873951359705985,
+            "y": 0.7063953488317858
+          },
+          "text": "umgeben sie jeden Tag Geschichten, Ideen für neue"
+        },
+        {
+          "bbox": {
+            "height": 0.019524633678185466,
+            "width": 0.456278076171875,
+            "x": 0.09852840481433801,
+            "y": 0.6864584992489354
+          },
+          "text": "Bilder kommen ihr in unerwarteten Momenten - beim"
+        },
+        {
+          "bbox": {
+            "height": 0.016239840541606432,
+            "width": 0.44117645263671884,
+            "x": 0.09873950918584223,
+            "y": 0.6671511629529046
+          },
+          "text": "Bezahlen im Supermarkt, beim Plaudern mit einem"
+        },
+        {
+          "bbox": {
+            "height": 0.017557535204507868,
+            "width": 0.38025210062662756,
+            "x": 0.09663865795874495,
+            "y": 0.646802326247081
+          },
+          "text": "Nachbarn oder wenn sie in eine Pfütze tritt."
+        },
+        {
+          "bbox": {
+            "height": 0.017441860669761944,
+            "width": 0.43487396240234366,
+            "x": 0.10084032914546678,
+            "y": 0.606104650915119
+          },
+          "text": "Anna Schaub hat Englisch, Deutsch und Philosophie"
+        },
+        {
+          "bbox": {
+            "height": 0.016147635524798143,
+            "width": 0.4180672200520833,
+            "x": 0.09873950270154931,
+            "y": 0.587081891831223
+          },
+          "text": "in Basel und London studiert. Heute übersetzt sie"
+        },
+        {
+          "bbox": {
+            "height": 0.017441859569791607,
+            "width": 0.41806722005208335,
+            "x": 0.10084034318824403,
+            "y": 0.56686046573836
+          },
+          "text": "Bilderbücher, leitet eine Bibliothek und freut sich,"
+        },
+        {
+          "bbox": {
+            "height": 0.01880259442356902,
+            "width": 0.4394191487630208,
+            "x": 0.10067369875621902,
+            "y": 0.5462214448113978
+          },
+          "text": "wenn sie als Literaturvermittlerin Menschen mit den"
+        },
+        {
+          "bbox": {
+            "height": 0.019300969001743717,
+            "width": 0.3427132161458334,
+            "x": 0.09648159900222798,
+            "y": 0.5245987640459635
+          },
+          "text": "passenden Geschichten versorgen kann."
+        }
+      ],
+      "page": 4,
+      "webImage": "page_004.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.028254370862029754,
+            "width": 0.23850268046061185,
+            "x": 0.664663390330383,
+            "y": 0.764215838701296
+          },
+          "text": "Larysa Maliush"
+        },
+        {
+          "bbox": {
+            "height": 0.13462821017490345,
+            "width": 0.7391212972005208,
+            "x": 0.17791997313769267,
+            "y": 0.5889358946170014
+          },
+          "text": "Mahlzeit!"
+        },
+        {
+          "bbox": {
+            "height": 0.017441860298985423,
+            "width": 0.1899224726359049,
+            "x": 0.7112403164436755,
+            "y": 0.5421511629464375
+          },
+          "text": "Aus dem Englischen"
+        },
+        {
+          "bbox": {
+            "height": 0.013368100560410934,
+            "width": 0.15891473134358725,
+            "x": 0.7364341085207129,
+            "y": 0.5247093027460936
+          },
+          "text": "von Anna Schaub"
+        },
+        {
+          "bbox": {
+            "height": 0.02906976716497567,
+            "width": 0.07170542399088542,
+            "x": 0.5523255826847899,
+            "y": 0.1017441863303028
+          },
+          "text": "Nord"
+        },
+        {
+          "bbox": {
+            "height": 0.024709301494927005,
+            "width": 0.06976744333902996,
+            "x": 0.5523255801577275,
+            "y": 0.07558139569148992
+          },
+          "text": "Süd\""
+        }
+      ],
+      "page": 5,
+      "webImage": "page_005.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.09884058370447213,
+            "width": 0.33200360616048175,
+            "x": 0.044171985250029806,
+            "y": 0.8158811707121228
+          },
+          "text": "AAA-HUUUUUU"
+        },
+        {
+          "bbox": {
+            "height": 0.08368357270096682,
+            "width": 0.2524784851074219,
+            "x": 0.10426347182696494,
+            "y": 0.6633051558227523
+          },
+          "text": "AU-UUU0U"
+        },
+        {
+          "bbox": {
+            "height": 0.0972183649927687,
+            "width": 0.2866657765706381,
+            "x": 0.5874979333199424,
+            "y": 0.6664937106918153
+          },
+          "text": "A-HUUUUUU"
+        },
+        {
+          "bbox": {
+            "height": 0.02331784192253561,
+            "width": 0.7016806538899739,
+            "x": 0.10924371133232388,
+            "y": 0.11476355296351703
+          },
+          "text": "Vollmondrächte waren eine große Sache, Denn dann musste jeder Wolf-"
+        },
+        {
+          "bbox": {
+            "height": 0.026370634807159843,
+            "width": 0.6076919555664062,
+            "x": 0.10692510671388376,
+            "y": 0.09265023370265524
+          },
+          "text": "vom kleinsten bis zum größten + dem. Mond ein Lied vorsingen."
+        },
+        {
+          "bbox": {
+            "height": 0.02333460657104358,
+            "width": 0.4747898864746093,
+            "x": 0.10924371176969813,
+            "y": 0.07412790740076891
+          },
+          "text": "Das war ihre Art, um Glück bei der Jagd zu bitten."
+        }
+      ],
+      "page": 6,
+      "webImage": "page_006.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.14632284328732148,
+            "width": 0.3221893819173177,
+            "x": 0.07311622007168642,
+            "y": 0.7885796312936759
+          },
+          "text": "AHUUUUUUUUU"
+        },
+        {
+          "bbox": {
+            "height": 0.04215116179391243,
+            "width": 0.08914728800455729,
+            "x": 0.38178294558797615,
+            "y": 0.8299418612645886
+          },
+          "text": "AA-U"
+        },
+        {
+          "bbox": {
+            "height": 0.1119169980547996,
+            "width": 0.25241999308268226,
+            "x": 0.11379385470876628,
+            "y": 0.6786377359238023
+          },
+          "text": "AA-HUUUU"
+        },
+        {
+          "bbox": {
+            "height": 0.024999636389342994,
+            "width": 0.6918604532877605,
+            "x": 0.11627907952537034,
+            "y": 0.11482558191565018
+          },
+          "text": "Grauschnauz beschloss zum Waldrand zu gehen, weg von seinem Rudel"
+        },
+        {
+          "bbox": {
+            "height": 0.02933832709113604,
+            "width": 0.7093023173014323,
+            "x": 0.11434108231827622,
+            "y": 0.08863920138639036
+          },
+          "text": "Er wusste dass das nicht in Ordnung war, Aber es fel ihm einlach sdawer"
+        },
+        {
+          "bbox": {
+            "height": 0.024968789013732784,
+            "width": 0.5542635599772135,
+            "x": 0.11434108268581193,
+            "y": 0.07116104908578702
+          },
+          "text": "zu singen, wenn zwei Dutzend Wölfe neben ihm heulten."
+        }
+      ],
+      "page": 7,
+      "webImage": "page_007.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "text": "Hach, der Mond war so wunderschön!",
+          "bbox": {
+            "x": 0.05,
+            "y": 0.08,
+            "width": 0.55,
+            "height": 0.04
+          }
+        },
+        {
+          "text": "Mein Lied muss das beste sein!",
+          "bbox": {
+            "x": 0.05,
+            "y": 0.13,
+            "width": 0.6,
+            "height": 0.04
+          }
+        },
+        {
+          "text": "Ich will das ganze Glück für mich allein!",
+          "bbox": {
+            "x": 0.05,
+            "y": 0.18,
+            "width": 0.65,
+            "height": 0.04
+          }
+        }
+      ],
+      "page": 8,
+      "webImage": "page_008.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.05523255880405842,
+            "width": 0.1356589126586914,
+            "x": 0.4844961247136424,
+            "y": 0.7747093017422626
+          },
+          "text": "AHEN-"
+        },
+        {
+          "bbox": {
+            "height": 0.053779068659902673,
+            "width": 0.11240309397379555,
+            "x": 0.5581395380377675,
+            "y": 0.7412790700767611
+          },
+          "text": "KHEM"
+        },
+        {
+          "bbox": {
+            "height": 0.018895348061931938,
+            "width": 0.16472867329915364,
+            "x": 0.6802325605161208,
+            "y": 0.7383720933563886
+          },
+          "text": "Er räusperte sich."
+        },
+        {
+          "bbox": {
+            "height": 0.1588167626313055,
+            "width": 0.4918546040852864,
+            "x": 0.4323935472227081,
+            "y": 0.3547734326848604
+          },
+          "text": "AAA-HUUUUUO, -"
+        },
+        {
+          "bbox": {
+            "height": 0.015920539027296177,
+            "width": 0.08567424138387036,
+            "x": 0.676155128434668,
+            "y": 0.3757606607726022
+          },
+          "text": "sang er."
+        },
+        {
+          "bbox": {
+            "height": 0.02540561471241387,
+            "width": 0.5761622619628907,
+            "x": 0.11794617345467098,
+            "y": 0.09216784165510261
+          },
+          "text": "Wie klar und rein das klang. Jeder einzelne Ton war perfekt!"
+        },
+        {
+          "bbox": {
+            "height": 0.021360916442490052,
+            "width": 0.5351686604817708,
+            "x": 0.11617716437894965,
+            "y": 0.07259821016531054
+          },
+          "text": "Selbst der Mond schien ein bisschen heller zu scheinen."
+        }
+      ],
+      "page": 9,
+      "webImage": "page_009.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.017441860298985423,
+            "width": 0.3682170613606771,
+            "x": 0.238372092104822,
+            "y": 0.843023255917783
+          },
+          "text": "Grauschnauz wollte eben neu ansetzen,"
+        },
+        {
+          "bbox": {
+            "height": 0.01773038071193056,
+            "width": 0.3003875986735026,
+            "x": 0.23643411139483775,
+            "y": 0.8212209303156236
+          },
+          "text": "als er auf einmal etwas hörte ..."
+        }
+      ],
+      "page": 10,
+      "webImage": "page_010.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.3321894765941986,
+            "width": 0.9248138427734376,
+            "x": 0.0014732182095908305,
+            "y": 0.5390200656063276
+          },
+          "text": "WÄ-HÃÅA"
+        },
+        {
+          "bbox": {
+            "height": 0.015988371345434294,
+            "width": 0.27519378662109373,
+            "x": 0.19186046873725682,
+            "y": 0.20639534915044178
+          },
+          "text": "Das war vollkommen falsch."
+        },
+        {
+          "bbox": {
+            "height": 0.022014633397782202,
+            "width": 0.3643410746256511,
+            "x": 0.19186046679570173,
+            "y": 0.18023255793118054
+          },
+          "text": "Wölfe sollten »AAA-HUUUU« heulen."
+        },
+        {
+          "bbox": {
+            "height": 0.02196926778919539,
+            "width": 0.22868217468261717,
+            "x": 0.19379844982923397,
+            "y": 0.15843023234978537
+          },
+          "text": "Nicht »WÄ-HÄAÄÄÄ«."
+        }
+      ],
+      "page": 11,
+      "webImage": "page_011.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.024227904838961756,
+            "width": 0.539489122225032,
+            "x": 0.10852106668280381,
+            "y": 0.1597487561753994
+          },
+          "text": "Er folgte dem Geräusch und traf mitten auf einer Lichtung"
+        },
+        {
+          "bbox": {
+            "height": 0.01765375854214124,
+            "width": 0.5065217156223382,
+            "x": 0.10869565759643983,
+            "y": 0.14236902050735145
+          },
+          "text": "auf ein kleines Häschen. Es heulte nicht den Mond an."
+        },
+        {
+          "bbox": {
+            "height": 0.01906089413410439,
+            "width": 0.6108695295031676,
+            "x": 0.10869566392232932,
+            "y": 0.11902050123928976
+          },
+          "text": "Es heulte, aber nur für sich, Das Häschen war mutterseelenallein."
+        },
+        {
+          "bbox": {
+            "height": 0.018898659795183237,
+            "width": 0.5282608370155453,
+            "x": 0.10869566592157526,
+            "y": 0.09738040986236784
+          },
+          "text": "Und die Wolfsregel war klar: Alle, die nach Einbruch der"
+        },
+        {
+          "bbox": {
+            "height": 0.021858610704982517,
+            "width": 0.6282608578111691,
+            "x": 0.11086957733354576,
+            "y": 0.07267441899287319
+          },
+          "text": "Dunkelheit im Wald gefunden wurden, mussten gefressen werden."
+        }
+      ],
+      "page": 12,
+      "webImage": "page_012.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.019350811485642883,
+            "width": 0.6279069519042968,
+            "x": 0.09689924274940181,
+            "y": 0.5593008739084553
+          },
+          "text": "Grauschnauz zögerte. Das Häschen war so winzig. So flauschig."
+        },
+        {
+          "bbox": {
+            "height": 0.019013297096471482,
+            "width": 0.7906976318359374,
+            "x": 0.0968992362138144,
+            "y": 0.5377906980075515
+          },
+          "text": "Vielleicht war es ja doch schon Morgen? Nein, es war noch immer dunkle Nacht."
+        },
+        {
+          "bbox": {
+            "height": 0.018922567069902474,
+            "width": 0.5658914693196615,
+            "x": 0.100775201231642,
+            "y": 0.4941860469138015
+          },
+          "text": "Da konnte man nichts machen. Regel war nun mal Regel."
+        },
+        {
+          "bbox": {
+            "height": 0.020617395751038714,
+            "width": 0.4069767252604166,
+            "x": 0.10271319182715596,
+            "y": 0.4706616733241912
+          },
+          "text": "Er öffnete sein großes, zahniges Maul, ..."
+        }
+      ],
+      "page": 13,
+      "webImage": "page_013.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.16039673308754676,
+            "width": 0.27695452372233065,
+            "x": 0.7127539203883879,
+            "y": 0.732216134524136
+          },
+          "text": "HAAA..."
+        },
+        {
+          "bbox": {
+            "height": 0.02057328146792825,
+            "width": 0.6145113627115885,
+            "x": 0.11036190968858857,
+            "y": 0.5435650420676441
+          },
+          "text": "... da kitzelte das Puschelschwänzchen des Häschens seine Nase."
+        },
+        {
+          "bbox": {
+            "height": 0.09091692292288445,
+            "width": 0.44549453735351563,
+            "x": 0.4998787879733855,
+            "y": 0.3705326259276367
+          },
+          "text": "АСНИШНИ!!"
+        },
+        {
+          "bbox": {
+            "height": 0.024540530906039137,
+            "width": 0.7096546427408854,
+            "x": 0.10835906349970752,
+            "y": 0.11699230949503592
+          },
+          "text": "Der Nieser hallte durch den Wald. Tannenzapfen fielen zu Boden, und das"
+        },
+        {
+          "bbox": {
+            "height": 0.02034883582487823,
+            "width": 0.7286821492513021,
+            "x": 0.10852713722373987,
+            "y": 0.0959302331672951
+          },
+          "text": "arme, kleine Häschen wurde beinahe weggeblasen. Dabei fiel ihm ein Zettel"
+        },
+        {
+          "bbox": {
+            "height": 0.020348835824878342,
+            "width": 0.6472868347167969,
+            "x": 0.10852712990073769,
+            "y": 0.07412790766895616
+          },
+          "text": "aus der Tasche. Grauschnauz hielt ihn dicht vor seine Augen und las."
+        }
+      ],
+      "page": 14,
+      "webImage": "page_014.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.03442390198588097,
+            "width": 0.2919904802229022,
+            "x": 0.6008758045881626,
+            "y": 0.8858782486753886
+          },
+          "text": "Lieber Finder dieser Nachricht,"
+        },
+        {
+          "bbox": {
+            "height": 0.029925289892661633,
+            "width": 0.27281682474629865,
+            "x": 0.5992997499078494,
+            "y": 0.8410622640571384
+          },
+          "text": "unser kleiner Knuffel liebt es,"
+        },
+        {
+          "bbox": {
+            "height": 0.0331486178422028,
+            "width": 0.2951648418719952,
+            "x": 0.5991620803192784,
+            "y": 0.8144543143259605
+          },
+          "text": "auf Entdeckungstour zu gehen."
+        },
+        {
+          "bbox": {
+            "height": 0.02789185639122893,
+            "width": 0.2125823814552147,
+            "x": 0.5970286340196971,
+            "y": 0.7960041239429991
+          },
+          "text": "Solltest du ihn finden,"
+        },
+        {
+          "bbox": {
+            "height": 0.026531484512641867,
+            "width": 0.32697744302816323,
+            "x": 0.5999212858492596,
+            "y": 0.7715947304225024
+          },
+          "text": "begleite ihn doch bitte nach Hause."
+        },
+        {
+          "bbox": {
+            "height": 0.026327396036552098,
+            "width": 0.31622925338211594,
+            "x": 0.5997383870331778,
+            "y": 0.7486344322935475
+          },
+          "text": "Als Dankeschön laden wir dich zu"
+        },
+        {
+          "bbox": {
+            "height": 0.0205011389521641,
+            "width": 0.27901784189931167,
+            "x": 0.5959821499655226,
+            "y": 0.7266514807655209
+          },
+          "text": "einem superleckeren Essen ein."
+        },
+        {
+          "bbox": {
+            "height": 0.01770464923224302,
+            "width": 0.12508585736468125,
+            "x": 0.7745106417424927,
+            "y": 0.6815546525470724
+          },
+          "text": "Ganz herzlich"
+        },
+        {
+          "bbox": {
+            "height": 0.019011230294959658,
+            "width": 0.12276785523741385,
+            "x": 0.7767857143615227,
+            "y": 0.65831435117478
+          },
+          "text": "Familie Hase"
+        }
+      ],
+      "page": 15,
+      "webImage": "page_015.jpg"
+    },
+    {
+      "hasText": false,
+      "lines": [],
+      "page": 16,
+      "webImage": "page_016.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.01626291937298241,
+            "width": 0.25087107340494785,
+            "x": 0.12891986085850174,
+            "y": 0.8965277777177382
+          },
+          "text": "Grauschnauz musste erst"
+        },
+        {
+          "bbox": {
+            "height": 0.017441859510209823,
+            "width": 0.17944250742594403,
+            "x": 0.1289198590265751,
+            "y": 0.8735465119963486
+          },
+          "text": "mal nachdenken."
+        },
+        {
+          "bbox": {
+            "height": 0.016004521979225972,
+            "width": 0.2595818837483724,
+            "x": 0.12717770183661514,
+            "y": 0.8284722223907743
+          },
+          "text": "Satt würde er von diesem"
+        },
+        {
+          "bbox": {
+            "height": 0.019444444444444375,
+            "width": 0.3257839711507161,
+            "x": 0.1271777040936314,
+            "y": 0.80208333336327
+          },
+          "text": "winzigen Häschen nicht werden."
+        },
+        {
+          "bbox": {
+            "height": 0.0225051416291131,
+            "width": 0.3036746724446615,
+            "x": 0.12690377875554607,
+            "y": 0.7785271859414366
+          },
+          "text": "Und vielleicht bekam er sogar"
+        },
+        {
+          "bbox": {
+            "height": 0.01621447006861365,
+            "width": 0.2874564361572266,
+            "x": 0.12717770885953997,
+            "y": 0.7601744191156747
+          },
+          "text": "Bauchschmerzen vom vielen"
+        },
+        {
+          "bbox": {
+            "height": 0.01894379787974887,
+            "width": 0.1707317097981771,
+            "x": 0.1254355405364515,
+            "y": 0.7354166667599438
+          },
+          "text": "flauschigen Fell."
+        },
+        {
+          "bbox": {
+            "height": 0.017700258228513954,
+            "width": 0.29616724650065107,
+            "x": 0.13066202385768838,
+            "y": 0.6930555554219398
+          },
+          "text": "Außerdem lockte die Aussicht"
+        },
+        {
+          "bbox": {
+            "height": 0.017441860834757406,
+            "width": 0.22473866780598958,
+            "x": 0.13240418686604452,
+            "y": 0.6700581393708273
+          },
+          "text": "auf ein leckeres Essen."
+        },
+        {
+          "bbox": {
+            "height": 0.021802324718899202,
+            "width": 0.44599304199218753,
+            "x": 0.4686411140910142,
+            "y": 0.5465116281202016
+          },
+          "text": "Von Hasen, die Wölfen Mahlzeiten zubereiteten,"
+        },
+        {
+          "bbox": {
+            "height": 0.018911498122745063,
+            "width": 0.282229970296224,
+            "x": 0.4686411152351633,
+            "y": 0.5276162795463539
+          },
+          "text": "hatte er zwar noch nie gehört."
+        },
+        {
+          "bbox": {
+            "height": 0.019444444444444375,
+            "width": 0.40069684346516926,
+            "x": 0.46864112931271146,
+            "y": 0.5055555553047939
+          },
+          "text": "Aber bestimmt würden sie das Richtige tun"
+        },
+        {
+          "bbox": {
+            "height": 0.017490309476852484,
+            "width": 0.26132403055826825,
+            "x": 0.46864112387591805,
+            "y": 0.4854166667898804
+          },
+          "text": "und ihr Versprechen halten."
+        },
+        {
+          "bbox": {
+            "height": 0.01763565871450634,
+            "width": 0.43902440388997394,
+            "x": 0.4668989451368945,
+            "y": 0.4416666669972037
+          },
+          "text": "Bloß - Was, wenn sie ihm nur Salat vorsetzten?"
+        },
+        {
+          "bbox": {
+            "height": 0.020348836316002705,
+            "width": 0.3989546966552735,
+            "x": 0.4668989552655689,
+            "y": 0.418604651863801
+          },
+          "text": "Nun ja, dieses winzige Häschen hatte doch"
+        },
+        {
+          "bbox": {
+            "height": 0.02083333333333337,
+            "width": 0.4477351888020833,
+            "x": 0.4668989605989583,
+            "y": 0.39513888887522086
+          },
+          "text": "bestimmt noch ein paar saftigere Geschwister ..."
+        },
+        {
+          "bbox": {
+            "height": 0.02274382379319928,
+            "width": 0.3437730662027995,
+            "x": 0.46664893164852733,
+            "y": 0.3515822402822053
+          },
+          "text": "Grauschnauz hatte sich entschieden."
+        }
+      ],
+      "page": 17,
+      "webImage": "page_017.jpg"
+    },
+    {
+      "hasText": false,
+      "lines": [],
+      "page": 18,
+      "webImage": "page_018.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.021802324678455,
+            "width": 0.18666666666666665,
+            "x": 0.31238095371428576,
+            "y": 0.8837209307567028
+          },
+          "text": "Unglücklicherweise"
+        },
+        {
+          "bbox": {
+            "height": 0.02048937782986482,
+            "width": 0.19619047800699868,
+            "x": 0.3104761912028498,
+            "y": 0.8632315520944398
+          },
+          "text": "hatte das Gejammer"
+        },
+        {
+          "bbox": {
+            "height": 0.025578390854308908,
+            "width": 0.18686084747314452,
+            "x": 0.31228386281776976,
+            "y": 0.8411352240273441
+          },
+          "text": "des doofen, kleinen"
+        },
+        {
+          "bbox": {
+            "height": 0.020382122229073762,
+            "width": 0.21333333333333332,
+            "x": 0.3104761913333333,
+            "y": 0.8212209307830598
+          },
+          "text": "Häschens die anderen"
+        },
+        {
+          "bbox": {
+            "height": 0.025060432861172877,
+            "width": 0.16675168355305992,
+            "x": 0.3099730612450868,
+            "y": 0.7945676433016322
+          },
+          "text": "Wölfe angelockt."
+        }
+      ],
+      "page": 19,
+      "webImage": "page_019.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.02616278917000603,
+            "width": 0.7440944925944011,
+            "x": 0.10826771964768132,
+            "y": 0.8953488379523724
+          },
+          "text": "Bevor Grauschnauz wusste, wie ihm geschah, hatte das Rudel sie umzingelt."
+        },
+        {
+          "bbox": {
+            "height": 0.027528373371044523,
+            "width": 0.6126103210449219,
+            "x": 0.10799866685427058,
+            "y": 0.8734460695053227
+          },
+          "text": "*Was für ein hubsches, leckeres Häschena, geiferten die Wölfe."
+        },
+        {
+          "bbox": {
+            "height": 0.03388262557514188,
+            "width": 0.5620281982421875,
+            "x": 0.10762974105022166,
+            "y": 0.8480075664650724
+          },
+          "text": "Nein!r, sagte er, ›ihr könnt dieses Häschen nicht essen!«"
+        },
+        {
+          "bbox": {
+            "height": 0.023569585652368996,
+            "width": 0.39622311909993496,
+            "x": 0.10794162041023976,
+            "y": 0.8301109563199367
+          },
+          "text": "•Nicht essen?« Die Wölfe waren verwirrt."
+        }
+      ],
+      "page": 20,
+      "webImage": "page_020.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.023362745706002164,
+            "width": 0.5168738810221355,
+            "x": 0.19005329011356223,
+            "y": 0.8880813954571978
+          },
+          "text": "»Schaut doch, wie winzig es ist, meinte Grauschnauz."
+        },
+        {
+          "bbox": {
+            "height": 0.022004309402174682,
+            "width": 0.5470692443847656,
+            "x": 0.18827709524989075,
+            "y": 0.8662790698156311
+          },
+          "text": "»Ja, sehr klein«, stimmten die Wölfe zu. »Ein Häppchen«."
+        },
+        {
+          "bbox": {
+            "height": 0.0220993598085657,
+            "width": 0.5133214823404948,
+            "x": 0.19005329446791544,
+            "y": 0.8430232559867274
+          },
+          "text": "»Und es hat sich verlaufen«, fügte Grauschnauz hinzu."
+        },
+        {
+          "bbox": {
+            "height": 0.026558280965612746,
+            "width": 0.5793697102864583,
+            "x": 0.18808723922521703,
+            "y": 0.8195198627826629
+          },
+          "text": "»Wie würde es euch gefallen, wenn ihr euch verlaufen hättet"
+        },
+        {
+          "bbox": {
+            "height": 0.022107281541954182,
+            "width": 0.5701598612467449,
+            "x": 0.1882770816856863,
+            "y": 0.7994186045540032
+          },
+          "text": "und euch jemand als Zwischenmahlzeit betrachten würde?«"
+        },
+        {
+          "bbox": {
+            "height": 0.022079557424020346,
+            "width": 0.669626973470052,
+            "x": 0.18827710313077214,
+            "y": 0.7758855587584106
+          },
+          "text": "»Ich wäre ungern eine Zwischenmahlzeit«, murmelte ein kleiner Wolf."
+        },
+        {
+          "bbox": {
+            "height": 0.020622109197465766,
+            "width": 0.5701598612467448,
+            "x": 0.18827708787129893,
+            "y": 0.7540871934429079
+          },
+          "text": "»Es ist schon ziemlich niedlich ...«, gab ein anderer Wolf zu."
+        },
+        {
+          "bbox": {
+            "height": 0.02061418811371929,
+            "width": 0.3250444030761719,
+            "x": 0.45115452986257387,
+            "y": 0.7104904629641544
+          },
+          "text": "»Darum bringe ich es jetzt zurück"
+        },
+        {
+          "bbox": {
+            "height": 0.021972625067188556,
+            "width": 0.4085257466634115,
+            "x": 0.4476021326312479,
+            "y": 0.6873297003206688
+          },
+          "text": "nach Hauser sagte Grauschnauz bestimmt"
+        },
+        {
+          "bbox": {
+            "height": 0.021968664850136266,
+            "width": 0.3712255605061849,
+            "x": 0.4476021374977957,
+            "y": 0.6655313349472414
+          },
+          "text": "und eilte davor bevor die Wölfe noch"
+        },
+        {
+          "bbox": {
+            "height": 0.020602306812920412,
+            "width": 0.2948490142822266,
+            "x": 0.4493783368832461,
+            "y": 0.6450953676868801
+          },
+          "text": "weiter Fragen stellen konnten."
+        },
+        {
+          "bbox": {
+            "height": 0.027616279976244495,
+            "width": 0.049733568827311225,
+            "x": 0.2912966260836801,
+            "y": 0.6104651156877499
+          },
+          "text": "òó"
+        }
+      ],
+      "page": 21,
+      "webImage": "page_021.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.022463716371229014,
+            "width": 0.143920160929362,
+            "x": 0.45129573285240365,
+            "y": 0.5934193043600777
+          },
+          "text": "Sie gingen auf"
+        },
+        {
+          "bbox": {
+            "height": 0.0206137667880969,
+            "width": 0.21317829132080074,
+            "x": 0.45348837437835926,
+            "y": 0.5724094885371329
+          },
+          "text": "unbekannten Wegen,"
+        }
+      ],
+      "page": 22,
+      "webImage": "page_022.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.01618702645182335,
+            "width": 0.1434782635820379,
+            "x": 0.25652173706767667,
+            "y": 0.5928246014276661
+          },
+          "text": "krochen durch"
+        },
+        {
+          "bbox": {
+            "height": 0.01767693456593289,
+            "width": 0.16521738497524485,
+            "x": 0.2586956574036819,
+            "y": 0.5683139535752297
+          },
+          "text": "dichtes Gestrüpp"
+        },
+        {
+          "bbox": {
+            "height": 0.01771997645123946,
+            "width": 0.25869563815947083,
+            "x": 0.5847826175506994,
+            "y": 0.42995444214441947
+          },
+          "text": "und erklommen scheinbar"
+        },
+        {
+          "bbox": {
+            "height": 0.020348837815547527,
+            "width": 0.23695651676626384,
+            "x": 0.5847826127944044,
+            "y": 0.4040697669691642
+          },
+          "text": "unüberwindbare Berge."
+        },
+        {
+          "bbox": {
+            "height": 0.011627906547320377,
+            "width": 0.03260869508707542,
+            "x": 0.8304347829455927,
+            "y": 0.12354651193951816
+          },
+          "text": "HASEN"
+        }
+      ],
+      "page": 23,
+      "webImage": "page_023.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.10031233951246388,
+            "width": 0.288130645751953,
+            "x": 0.6969648717844977,
+            "y": 0.8873438304991886
+          },
+          "text": "HOCH!"
+        },
+        {
+          "bbox": {
+            "height": 0.08749430186092366,
+            "width": 0.3076358032226562,
+            "x": 0.4031494207133997,
+            "y": 0.23080640258581686
+          },
+          "text": "MEIN ZUHAUSE!,"
+        },
+        {
+          "bbox": {
+            "height": 0.02247520363623179,
+            "width": 0.29169278462727866,
+            "x": 0.5912159386964614,
+            "y": 0.23676907597271935
+          },
+          "text": "quiekte das kleine Häschen."
+        }
+      ],
+      "page": 24,
+      "webImage": "page_024.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.049576783555018156,
+            "width": 0.5731462605794271,
+            "x": 0.0661322846258318,
+            "y": 0.79504232243693
+          },
+          "text": "НОСНУ НОСН! НОСНІ НОСНІ НОСН!"
+        },
+        {
+          "bbox": {
+            "height": 0.02458901272719538,
+            "width": 0.31145136515299476,
+            "x": 0.1078414373361316,
+            "y": 0.2769490983276903
+          },
+          "text": "Grauschnauz klopfte an die Tür."
+        },
+        {
+          "bbox": {
+            "height": 0.024449670185056838,
+            "width": 0.37961669921875,
+            "x": 0.10790922206130972,
+            "y": 0.25562237100499985
+          },
+          "text": "Kurz darauf öffnete nicht nur ein Hase,"
+        },
+        {
+          "bbox": {
+            "height": 0.019838729821496925,
+            "width": 0.13482087453206382,
+            "x": 0.1079402658158555,
+            "y": 0.23572016996667344
+          },
+          "text": "nicht zwei, ..."
+        }
+      ],
+      "page": 25,
+      "webImage": "page_025.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.03197674327667854,
+            "width": 0.11956521965169825,
+            "x": 0.2369565213154552,
+            "y": 0.9084302332792964
+          },
+          "text": "/KLOPF"
+        },
+        {
+          "bbox": {
+            "height": 0.04447674588353323,
+            "width": 0.08869847000356018,
+            "x": 0.30521598394223404,
+            "y": 0.8874999995557815
+          },
+          "text": "KLOPF"
+        },
+        {
+          "bbox": {
+            "height": 0.04305710064794588,
+            "width": 0.09022002731921114,
+            "x": 0.299447758586118,
+            "y": 0.8642382146579998
+          },
+          "text": "KLOPF"
+        },
+        {
+          "bbox": {
+            "height": 0.04960070329809507,
+            "width": 0.16956521705224525,
+            "x": 0.03043478383800778,
+            "y": 0.6059225519924853
+          },
+          "text": "IST DAS"
+        },
+        {
+          "bbox": {
+            "height": 0.05232558109222629,
+            "width": 0.17826086820898102,
+            "x": 0.04347826051507472,
+            "y": 0.552325581873945
+          },
+          "text": "EURER?"
+        },
+        {
+          "bbox": {
+            "height": 0.02061702015731226,
+            "width": 0.43260868728871643,
+            "x": 0.38695652208933756,
+            "y": 0.09156976847928755
+          },
+          "text": "... sondern eine ganze Familie Hasen die Tür."
+        },
+        {
+          "bbox": {
+            "height": 0.020348835643168806,
+            "width": 0.3347825890302252,
+            "x": 0.3869565302674961,
+            "y": 0.06976744289789238
+          },
+          "text": "Was war er doch für ein Glückspilz!"
+        }
+      ],
+      "page": 26,
+      "webImage": "page_026.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.020546860525978428,
+            "width": 0.6305505879720052,
+            "x": 0.1154529396951699,
+            "y": 0.889534883587824
+          },
+          "text": "»Du hast Knuffel gefunden«, jubelten die Hasen. »Tausend Dank!«"
+        },
+        {
+          "bbox": {
+            "height": 0.020550820743030718,
+            "width": 0.6003552246093751,
+            "x": 0.11545294432053438,
+            "y": 0.8677325580791031
+          },
+          "text": "»Mh, auf dem Zettel stand etwas von einem Essen?«, fragte er."
+        },
+        {
+          "bbox": {
+            "height": 0.02064587179906363,
+            "width": 0.3836589558919271,
+            "x": 0.1154529408817451,
+            "y": 0.8444767441498395
+          },
+          "text": "»Aber sicher doch!«, sagte Mama Hase."
+        },
+        {
+          "bbox": {
+            "height": 0.019196343356971957,
+            "width": 0.51509765625,
+            "x": 0.11367674398867682,
+            "y": 0.8241279072829146
+          },
+          "text": "»Wir haben immer Platz für einen zusätzlichen Gast.«"
+        }
+      ],
+      "page": 27,
+      "webImage": "page_027.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.04995108424649852,
+            "width": 0.2389314270019531,
+            "x": 0.07909017943047494,
+            "y": 0.9028375368840269
+          },
+          "text": "MAHLZEIT!"
+        },
+        {
+          "bbox": {
+            "height": 0.017634207240948885,
+            "width": 0.5697674560546875,
+            "x": 0.10658914041580872,
+            "y": 0.8749999999377166
+          },
+          "text": "Grauschnauz bekam den Ehrenplatz. Noch nie hatte er so viel"
+        },
+        {
+          "bbox": {
+            "height": 0.02065731791521286,
+            "width": 0.5271317545572917,
+            "x": 0.10658915862251708,
+            "y": 0.8514357049027496
+          },
+          "text": "Essen auf einmal - und so hübsch angerichtet - gesehen."
+        },
+        {
+          "bbox": {
+            "height": 0.019350811485642994,
+            "width": 0.5968992106119791,
+            "x": 0.10658916035292511,
+            "y": 0.8283395754897447
+          },
+          "text": "Bereits nach dem vierten Stück Karottenpastete war er pappsatt."
+        },
+        {
+          "bbox": {
+            "height": 0.023487948299793615,
+            "width": 0.5218102518717448,
+            "x": 0.1044501297104534,
+            "y": 0.805681318068743
+          },
+          "text": "Vielleicht war es doch eine gute Entscheidung gewesen,"
+        },
+        {
+          "bbox": {
+            "height": 0.019350811485642994,
+            "width": 0.39341084798177084,
+            "x": 0.10465116852364939,
+            "y": 0.7846441946449606
+          },
+          "text": "den kleinen Kerl nach Hause zu begleiten."
+        },
+        {
+          "bbox": {
+            "height": 0.01622971285892627,
+            "width": 0.3430232493082682,
+            "x": 0.10271317811718376,
+            "y": 0.7440699128549816
+          },
+          "text": "Vielleicht ist es aber auch einfach die"
+        },
+        {
+          "bbox": {
+            "height": 0.018975190604373027,
+            "width": 0.2732558186848958,
+            "x": 0.10465116315755206,
+            "y": 0.7194767445591503
+          },
+          "text": "einzig richtige Entscheidung,"
+        },
+        {
+          "bbox": {
+            "height": 0.01622971285892638,
+            "width": 0.3352713012695313,
+            "x": 0.10465117081872274,
+            "y": 0.70037453189818
+          },
+          "text": "ein kleines Häschen nach Hause zu"
+        },
+        {
+          "bbox": {
+            "height": 0.018895348061931827,
+            "width": 0.31201550801595057,
+            "x": 0.10465116079338135,
+            "y": 0.6758720936470863
+          },
+          "text": "bringen - selbst dann, wenn man"
+        },
+        {
+          "bbox": {
+            "height": 0.020655503433741895,
+            "width": 0.26356587727864583,
+            "x": 0.10465117211649101,
+            "y": 0.6523096124074763
+          },
+          "text": "ein großer, grauer Wolf ist."
+        }
+      ],
+      "page": 28,
+      "webImage": "page_028.jpg"
+    },
+    {
+      "hasText": false,
+      "lines": [],
+      "page": 29,
+      "webImage": "page_029.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.2760478387611188,
+            "width": 0.6350794474283854,
+            "x": 0.3793357318989062,
+            "y": 0.5992889998284019
+          },
+          "text": "ARA-HUU"
+        },
+        {
+          "bbox": {
+            "height": 0.01753984825143806,
+            "width": 0.7500000000000001,
+            "x": 0.1046511690406975,
+            "y": 0.22965116297066224
+          },
+          "text": "© 2025 NordSüd Verlag AG; Franklinstrasse 23, CH-8050 Zürich Alle Rechte, auch die der Bearbeitung oder auszugsweisen"
+        },
+        {
+          "bbox": {
+            "height": 0.02059925093632964,
+            "width": 0.75,
+            "x": 0.10271317204457375,
+            "y": 0.21348314576976968
+          },
+          "text": "Verviefaitigung gleich durch welche Medien, vorbehalten. i Lekort Leanna Amold Übersetzung: Anna/Schaub"
+        },
+        {
+          "bbox": {
+            "height": 0.025015903620535407,
+            "width": 0.7482053629557293,
+            "x": 0.10650802678207431,
+            "y": 0.19315831587715104
+          },
+          "text": "Cetellung Therey Camper 1 Ithogreffe Frische Grafik, Hamburg L Druck, und Bindung: Lyonie Print, Lerland, 1"
+        },
+        {
+          "bbox": {
+            "height": 0.026314003190744173,
+            "width": 0.742591298421224,
+            "x": 0.10646425281091089,
+            "y": 0.17580261294139965
+          },
+          "text": "ISBN 978-3-314-1073751 Auflage 2025 www.nord-sued.com I. Wir freuen uns aber Nachnchien an"
+        },
+        {
+          "bbox": {
+            "height": 0.019350811485642994,
+            "width": 0.6627906799316406,
+            "x": 0.10658916168146647,
+            "y": 0.15230961309970925
+          },
+          "text": "die Jahre 2021-2025y unterstütz, GPSR EU-Kontakt: Nordsld Verlag GmbA, Triebst Triebstr 80993 Minichen."
+        },
+        {
+          "bbox": {
+            "height": 0.019033257583256247,
+            "width": 0.12790697733561196,
+            "x": 0.10658914805700022,
+            "y": 0.13358302118365928
+          },
+          "text": "gpor@nord sued.com"
+        }
+      ],
+      "page": 30,
+      "webImage": "page_030.jpg"
+    },
+    {
+      "hasText": true,
+      "lines": [
+        {
+          "bbox": {
+            "height": 0.03413796424865723,
+            "width": 0.1922415033976237,
+            "x": 0.5399551984445953,
+            "y": 0.7830763669246864
+          },
+          "text": "KNUFFEL?!"
+        },
+        {
+          "bbox": {
+            "height": 0.033830275229357776,
+            "width": 0.3523206837972004,
+            "x": 0.5822784781348034,
+            "y": 0.7425458719423628
+          },
+          "text": "NICHT SCHON WIEDER!"
+        },
+        {
+          "bbox": {
+            "height": 0.021802326954832862,
+            "width": 0.029535865783691384,
+            "x": 0.6497890289576621,
+            "y": 0.6351744180996184
+          },
+          "text": "6°"
+        }
+      ],
+      "page": 31,
+      "webImage": "page_031.jpg"
+    }
+  ],
+  "title": "Mahlzeit!"
+}
